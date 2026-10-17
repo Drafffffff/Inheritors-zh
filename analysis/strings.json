@@ -1,0 +1,566 @@
+[
+  {
+    "offset": "0xa13148",
+    "en": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
+  },
+  {
+    "offset": "0xa1526c",
+    "en": "The quick brown fox."
+  },
+  {
+    "offset": "0xa15284",
+    "en": "Surprise attack!"
+  },
+  {
+    "offset": "0xa15298",
+    "en": " (Qi: "
+  },
+  {
+    "offset": "0xa152a4",
+    "en": "Insufficient Qi"
+  },
+  {
+    "offset": "0xa152b4",
+    "en": "Defending"
+  },
+  {
+    "offset": "0xa152c0",
+    "en": "Passing"
+  },
+  {
+    "offset": "0xa152c8",
+    "en": "There is no escape"
+  },
+  {
+    "offset": "0xa152dc",
+    "en": "Escaped!"
+  },
+  {
+    "offset": "0xa152e8",
+    "en": "Failed to escape"
+  },
+  {
+    "offset": "0xa152fc",
+    "en": "Paralysis"
+  },
+  {
+    "offset": "0xa15308",
+    "en": "Your inheritor's quest has come to an end."
+  },
+  {
+    "offset": "0xa15334",
+    "en": "You were victorious in combat!"
+  },
+  {
+    "offset": "0xa15354",
+    "en": "You were victorious in combat! You have obtained the following:"
+  },
+  {
+    "offset": "0xa15394",
+    "en": "Is this...?"
+  },
+  {
+    "offset": "0xa153a0",
+    "en": "Correct, this is what we came here for. The inert form of these spirit creatures; spirit crystals."
+  },
+  {
+    "offset": "0xa15404",
+    "en": "Fantastic; we can use these to gain some of the powers of these spirit creatures. They will also be invaluable treasures to bring back to the clan."
+  },
+  {
+    "offset": "0xa15498",
+    "en": "(Press START to open up the menu and select the second option to equip your party with spirit crystals. Spirit crystals improve your stats and give you access to more techniques.)"
+  },
+  {
+    "offset": "0xa1554c",
+    "en": "That creature seems to have dropped something..."
+  },
+  {
+    "offset": "0xa15580",
+    "en": "Yes, this is a fantastic find. The latent Qi in this place has coalesced into godrelics. Powerful equipment that will help us survive in here."
+  },
+  {
+    "offset": "0xa15610",
+    "en": "Indeed, this is a fortunate discovery. We should equip it at once."
+  },
+  {
+    "offset": "0xa15654",
+    "en": "(Press START to open up the menu and select the first option to equip your party with godrelics. Godrelics can improve your combat potential, reduce the damage you take and more.)"
+  },
+  {
+    "offset": "0xa15708",
+    "en": "A locked door..."
+  },
+  {
+    "offset": "0xa1571c",
+    "en": "We should look around and see if there is something that unlocks this. The antecedents were very fond of their elaborate mechanical contraptions and devices."
+  },
+  {
+    "offset": "0xa157bc",
+    "en": "Looks like another locked door. We should search for another switch or button, see if something opens this."
+  },
+  {
+    "offset": "0xa15828",
+    "en": "Locked again..."
+  },
+  {
+    "offset": "0xa15838",
+    "en": "This is starting to get old. Did you see anything on the wall that we might have missed on the way here?"
+  },
+  {
+    "offset": "0xa158a4",
+    "en": "I don't think so, but we should certainly look around."
+  },
+  {
+    "offset": "0xa158dc",
+    "en": "The mysterious plaque evades your attempts at comprehension."
+  },
+  {
+    "offset": "0xa1591c",
+    "en": "Stepping on the tile has healed and reenergised you."
+  },
+  {
+    "offset": "0xa15954",
+    "en": "\"The portal worked. Our Qilin clan may yet realise some good fortune from this after all.\""
+  },
+  {
+    "offset": "0xa159b0",
+    "en": "\"So this is the ancient training ground... I can already sense the presence of spirit entities.\""
+  },
+  {
+    "offset": "0xa15a14",
+    "en": "\"Be careful, clan sister Star. While the spirit crystals have the potential to bring us great power, the spirit entities are not to be underestimated.\""
+  },
+  {
+    "offset": "0xa15aac",
+    "en": "\"I know that, clan brother Hawk. With these godrelics the clan patriarch provided us, we should surely be fine.\""
+  },
+  {
+    "offset": "0xa15b20",
+    "en": "\"These may be almighty relics back in our realm, but this is an ancient macrocosm. That is why the rewards will be so great. Because the risk is even higher.\""
+  },
+  {
+    "offset": "0xa15bc0",
+    "en": "\"Look, we should just hurry along and see if we can find something good to take back to the clan. The portal only opens once every 10,000 years after all. I don't want to miss anything.\""
+  },
+  {
+    "offset": "0xa15c7c",
+    "en": "\"Halt! You have trespassed upon the sacred training grounds of the great Dragonfly clan! Hand over any treasures you have found and leave at once!\""
+  },
+  {
+    "offset": "0xa15d10",
+    "en": "\"Who the hell are you? I've never heard of this Dragonfly clan before. Our Qilin clan has been using these grounds to train our chosen sons and daughters for hundreds of thousands of years!\""
+  },
+  {
+    "offset": "0xa15dd0",
+    "en": "\"That you do not show proper respect to the great Dragonfly Thunderbolt is an insult so great that it can only be washed away with the blood of your entire clan!\""
+  },
+  {
+    "offset": "0xa15e74",
+    "en": "\"Listen, I don't know who you are and I don't care. I'm only going to warn you once. Turn around and leave now or you will regret it.\""
+  },
+  {
+    "offset": "0xa15efc",
+    "en": "\"Apparently rudeness and overconfidence go hand in hand. Very well, but it is you who will soon regret your rash choice of actions!\""
+  },
+  {
+    "offset": "0xa15f84",
+    "en": "\"They are too powerful. I can't go on. Forgive me, Patriarch.\""
+  },
+  {
+    "offset": "0xa15fc4",
+    "en": "\"I told you not to mess with us.\""
+  },
+  {
+    "offset": "0xa15fe8",
+    "en": "\"I finally managed to track you down! You will pay for what you did to the young scion of the Dragonfly clan, Dragonfly Thunderbolt!\""
+  },
+  {
+    "offset": "0xa16070",
+    "en": "\"There's more of you Dragonfly people around? All right, I'll bite. What's your name?\""
+  },
+  {
+    "offset": "0xa160c8",
+    "en": "\"You would do well to learn the name of Dragonfly Sky, the Holy Daughter of the Dragonfly clan!\""
+  },
+  {
+    "offset": "0xa1612c",
+    "en": "\"I'm not sure we really need to learn it, though.\""
+  },
+  {
+    "offset": "0xa16160",
+    "en": "\"How is this possible?\""
+  },
+  {
+    "offset": "0xa16178",
+    "en": "\"All we wanted you to do was leave us alone... what was your name again?\""
+  },
+  {
+    "offset": "0xa161c4",
+    "en": "\"You... you... augh!\""
+  },
+  {
+    "offset": "0xa161dc",
+    "en": "\"How dare you spill the blood of the younger generation of the Dragonfly clan! This insult you have dealt us is close to unendurable. Now only I, Dragonfly Patriarch, can address this insult to my clan!\""
+  },
+  {
+    "offset": "0xa162a8",
+    "en": "\"Listen, we have no great emnity with you. Your clan simply needs to do a better job keepings its Chosen in check. We are willing to walk away.\""
+  },
+  {
+    "offset": "0xa1633c",
+    "en": "\"The time for words has long passed.\""
+  },
+  {
+    "offset": "0xa16364",
+    "en": "\"He's in no mood to negotiate. Star, get ready!\""
+  },
+  {
+    "offset": "0xa16398",
+    "en": "\"It's not over. You will not get away with this.\""
+  },
+  {
+    "offset": "0xa163cc",
+    "en": "\"I see some intrusive insects have emerged.\""
+  },
+  {
+    "offset": "0xa163fc",
+    "en": "\"Oh great. Don't tell me, you're the Dragonfly Matriarch and you're really angry with us for demolishing your clan.\""
+  },
+  {
+    "offset": "0xa16474",
+    "en": "\"I don't have one whit of care for your clan squabbles, but I will take possession of those spirit crystals and spirit items you've been hoarding.\""
+  },
+  {
+    "offset": "0xa16508",
+    "en": "\"We aren't going to let you do that!\""
+  },
+  {
+    "offset": "0xa16530",
+    "en": "\"Thunder... Sky... I'm sorry...\""
+  },
+  {
+    "offset": "0xa16554",
+    "en": "\"I see others have come for what is rightfully mine, but only I, Righteous Emperor, have the strength to take it!\""
+  },
+  {
+    "offset": "0xa165c8",
+    "en": "\"Try telling that to the Dragonfly clan.\""
+  },
+  {
+    "offset": "0xa165f4",
+    "en": "\"Laugh it up while you still can. Your adventure and your lives end here.\""
+  },
+  {
+    "offset": "0xa16640",
+    "en": "\"Hawk, watch out!\""
+  },
+  {
+    "offset": "0xa16654",
+    "en": "\"What... how?\""
+  },
+  {
+    "offset": "0xa16664",
+    "en": "\"We learned how to fight here. Our ancestors stretching back to time memorial trained on these grounds.\""
+  },
+  {
+    "offset": "0xa166d0",
+    "en": "\"As far as we are concerned, this place is ours. Who are you, and why did you come here?\""
+  },
+  {
+    "offset": "0xa1672c",
+    "en": "\"Ugh...\""
+  },
+  {
+    "offset": "0xa16738",
+    "en": "\"He's dead.\""
+  },
+  {
+    "offset": "0xa16748",
+    "en": "\"I'm glad that's over. Clan brother Hawk, grab everything that you can and let's go.\""
+  },
+  {
+    "offset": "0xa167a0",
+    "en": "\"The Qilin will never be vanquished.\""
+  },
+  {
+    "offset": "0xa167c8",
+    "en": "\"Never.\""
+  },
+  {
+    "offset": "0xa167d4",
+    "en": "Life: "
+  },
+  {
+    "offset": "0xa167e4",
+    "en": "Qi: "
+  },
+  {
+    "offset": "0xa167ec",
+    "en": "Spirit crystals: "
+  },
+  {
+    "offset": "0xa16800",
+    "en": "Time played: "
+  },
+  {
+    "offset": "0xa16814",
+    "en": "With the rival clans expelled from the Oubliette,"
+  },
+  {
+    "offset": "0xa16848",
+    "en": "the Qilin clan's legacy has been secured."
+  },
+  {
+    "offset": "0xa16874",
+    "en": "The spirit crystals and godrelics retrieved by"
+  },
+  {
+    "offset": "0xa168a4",
+    "en": "Qilin Hawk and Qilin Star will be used to"
+  },
+  {
+    "offset": "0xa168d0",
+    "en": "support the younger generation for centuries"
+  },
+  {
+    "offset": "0xa16900",
+    "en": "to come, further cementing the Qilin clan's"
+  },
+  {
+    "offset": "0xa1692c",
+    "en": "position in the immortal world."
+  },
+  {
+    "offset": "0xa1694c",
+    "en": "INHERITORS of the OUBLIETTE"
+  },
+  {
+    "offset": "0xa16968",
+    "en": "----------       ---------"
+  },
+  {
+    "offset": "0xa1698e",
+    "en": "SOFT"
+  },
+  {
+    "offset": "0xa16994",
+    "en": "--- Credits ---"
+  },
+  {
+    "offset": "0xa169a4",
+    "en": "GAME DESIGN:"
+  },
+  {
+    "offset": "0xa169b4",
+    "en": "Mahou Shoujo * Magical Moestar"
+  },
+  {
+    "offset": "0xa169d4",
+    "en": "one60hp"
+  },
+  {
+    "offset": "0xa169dc",
+    "en": "PROGRAMMING:"
+  },
+  {
+    "offset": "0xa169ec",
+    "en": "GRAPHICS:"
+  },
+  {
+    "offset": "0xa169f8",
+    "en": "MUSIC:"
+  },
+  {
+    "offset": "0xa16a00",
+    "en": "LEVEL DESIGN:"
+  },
+  {
+    "offset": "0xa16a10",
+    "en": "Thanks for playing!"
+  },
+  {
+    "offset": "0xa16a24",
+    "en": "Attack"
+  },
+  {
+    "offset": "0xa16a2c",
+    "en": "Use spirit technique"
+  },
+  {
+    "offset": "0xa16a44",
+    "en": "Defend"
+  },
+  {
+    "offset": "0xa16a4c",
+    "en": "Pass"
+  },
+  {
+    "offset": "0xa16a54",
+    "en": "Escape"
+  },
+  {
+    "offset": "0xa16a5c",
+    "en": "Prevents poison"
+  },
+  {
+    "offset": "0xa16a6c",
+    "en": "Regenerates Qi during battle"
+  },
+  {
+    "offset": "0xa16a8c",
+    "en": "Gives an extra turn in battle"
+  },
+  {
+    "offset": "0xa16aac",
+    "en": "Prevents all negative status conditions"
+  },
+  {
+    "offset": "0xa16ad4",
+    "en": "Keeps wearer's Qi completely filled during battle"
+  },
+  {
+    "offset": "0xa16b08",
+    "en": "Poison"
+  },
+  {
+    "offset": "0xa16b10",
+    "en": "Extra Poison"
+  },
+  {
+    "offset": "0xa16b20",
+    "en": "Weakness"
+  },
+  {
+    "offset": "0xa16b2c",
+    "en": "Barrier"
+  },
+  {
+    "offset": "0xa16b34",
+    "en": "Regen"
+  },
+  {
+    "offset": "0xa16b3c",
+    "en": "Fast"
+  },
+  {
+    "offset": "0xa16b44",
+    "en": "Inviso"
+  },
+  {
+    "offset": "0xa16b4c",
+    "en": "Infernal"
+  },
+  {
+    "offset": "0xa16b58",
+    "en": "Frigid"
+  },
+  {
+    "offset": "0xa16b60",
+    "en": "Heavenly"
+  },
+  {
+    "offset": "0xa16b6c",
+    "en": "Baleful"
+  },
+  {
+    "offset": "0xa16b74",
+    "en": "No weapon"
+  },
+  {
+    "offset": "0xa16b80",
+    "en": "Damage: "
+  },
+  {
+    "offset": "0xa16b8c",
+    "en": " (Acc: "
+  },
+  {
+    "offset": "0xa16b98",
+    "en": "Damage type: "
+  },
+  {
+    "offset": "0xa16ba8",
+    "en": "Inflicts: "
+  },
+  {
+    "offset": "0xa16bb4",
+    "en": "Defense: "
+  },
+  {
+    "offset": "0xa16bc0",
+    "en": " (Block chance: "
+  },
+  {
+    "offset": "0xa16bd4",
+    "en": "Protects against: "
+  },
+  {
+    "offset": "0xa16be8",
+    "en": "Vulnerable to: "
+  },
+  {
+    "offset": "0xa16bf8",
+    "en": " (+"
+  },
+  {
+    "offset": "0xa16bfc",
+    "en": "No spirit crystal"
+  },
+  {
+    "offset": "0xa16c10",
+    "en": "Str: "
+  },
+  {
+    "offset": "0xa16c18",
+    "en": "Def: "
+  },
+  {
+    "offset": "0xa16c20",
+    "en": "Agi: "
+  },
+  {
+    "offset": "0xa16c28",
+    "en": "Mag: "
+  },
+  {
+    "offset": "0xa16c30",
+    "en": " (Qi cost: "
+  },
+  {
+    "offset": "0xa16c3c",
+    "en": "Unoccupied save slot"
+  },
+  {
+    "offset": "0xa16c54",
+    "en": "Equip weapons / armour"
+  },
+  {
+    "offset": "0xa16c74",
+    "en": "Equip spirit crystals"
+  },
+  {
+    "offset": "0xa16c8c",
+    "en": "Use spirit techniques"
+  },
+  {
+    "offset": "0xa16ca4",
+    "en": "Save your progress"
+  },
+  {
+    "offset": "0xa16cb8",
+    "en": "Configuration"
+  },
+  {
+    "offset": "0xa16cc8",
+    "en": "No armour"
+  },
+  {
+    "offset": "0xa16cd4",
+    "en": "No helmet"
+  },
+  {
+    "offset": "0xa16ce0",
+    "en": "No accessory"
+  }
+]

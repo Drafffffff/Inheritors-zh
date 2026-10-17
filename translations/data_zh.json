@@ -1,0 +1,758 @@
+[
+  {
+    "offset": "0x27017",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶"
+  },
+  {
+    "offset": "0x27037",
+    "en": "Starfire",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "星火"
+  },
+  {
+    "offset": "0x27057",
+    "en": "Holy Helm",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "圣光头盔"
+  },
+  {
+    "offset": "0x27077",
+    "en": "Multi-target heavenly damage.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "对全体敌人造成圣属性伤害。"
+  },
+  {
+    "offset": "0x2711b",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶"
+  },
+  {
+    "offset": "0x2713b",
+    "en": "Purification",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "净化"
+  },
+  {
+    "offset": "0x2715b",
+    "en": "Cat`s Claw",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "猫爪"
+  },
+  {
+    "offset": "0x2717b",
+    "en": "Single-target negative status effect removal.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "解除单个目标的负面状态。"
+  },
+  {
+    "offset": "0x2721f",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶"
+  },
+  {
+    "offset": "0x2723f",
+    "en": "Toxic Cloud",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "毒云"
+  },
+  {
+    "offset": "0x2725f",
+    "en": "Ring of Poison Resistance",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "抗毒戒指"
+  },
+  {
+    "offset": "0x2727f",
+    "en": "Multi-target damage and inflicts poison.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "对全体敌人造成伤害并施加中毒。"
+  },
+  {
+    "offset": "0x27323",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶"
+  },
+  {
+    "offset": "0x27343",
+    "en": "Barrier",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "屏障"
+  },
+  {
+    "offset": "0x27363",
+    "en": "Dark Helm",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "暗黑头盔"
+  },
+  {
+    "offset": "0x27383",
+    "en": "Single-target casts protective barrier.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "为单个目标施加防护屏障。"
+  },
+  {
+    "offset": "0x27427",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶"
+  },
+  {
+    "offset": "0x27447",
+    "en": "Frost Blast",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "冰霜冲击"
+  },
+  {
+    "offset": "0x27467",
+    "en": "Wristband of Qi",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "真气腕带"
+  },
+  {
+    "offset": "0x27487",
+    "en": "Multi-target frigid damage",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "对全体敌人造成冰属性伤害。"
+  },
+  {
+    "offset": "0x2752b",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶"
+  },
+  {
+    "offset": "0x2754b",
+    "en": "Regeneration",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "再生"
+  },
+  {
+    "offset": "0x2756b",
+    "en": "Serpent Striker",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "灵蛇之击"
+  },
+  {
+    "offset": "0x2758b",
+    "en": "Gives a single target regenerating health",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "使单个目标的生命持续恢复。"
+  },
+  {
+    "offset": "0x2762f",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶"
+  },
+  {
+    "offset": "0x2764f",
+    "en": "Icicle Lance",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "冰枪"
+  },
+  {
+    "offset": "0x2766f",
+    "en": "Frost Mail",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "冰霜铠甲"
+  },
+  {
+    "offset": "0x2768f",
+    "en": "Single-target frigid damage. Inflicts paralysis.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "冰属性单体伤害，并施加麻痹。"
+  },
+  {
+    "offset": "0x27733",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶"
+  },
+  {
+    "offset": "0x27753",
+    "en": "Lifegather",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "聚命"
+  },
+  {
+    "offset": "0x27773",
+    "en": "Speed Boots",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "疾速靴"
+  },
+  {
+    "offset": "0x27793",
+    "en": "Single-target healing. Can revive fallen allies.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "恢复单个目标生命，可复活队友。"
+  },
+  {
+    "offset": "0x27837",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶"
+  },
+  {
+    "offset": "0x27857",
+    "en": "Immolate",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "焚烧"
+  },
+  {
+    "offset": "0x27877",
+    "en": "Fire Mail",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "烈焰铠甲"
+  },
+  {
+    "offset": "0x27897",
+    "en": "Single-target infernal damage.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "对单个目标造成炎属性伤害。"
+  },
+  {
+    "offset": "0x2793b",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶"
+  },
+  {
+    "offset": "0x2795b",
+    "en": "Mindblast",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "心灵冲击"
+  },
+  {
+    "offset": "0x2797b",
+    "en": "Helm of Dodging",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "闪避头盔"
+  },
+  {
+    "offset": "0x2799b",
+    "en": "Single-target damage and inflicts weakness.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "单体伤害，并施加虚弱。"
+  },
+  {
+    "offset": "0x27a3f",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶"
+  },
+  {
+    "offset": "0x27a5f",
+    "en": "Protection",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "守护"
+  },
+  {
+    "offset": "0x27a7f",
+    "en": "Chainmail",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "锁子甲"
+  },
+  {
+    "offset": "0x27a9f",
+    "en": "Multi-target protective barrier",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "为全体队友施加防护屏障。"
+  },
+  {
+    "offset": "0x27b43",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶"
+  },
+  {
+    "offset": "0x27b63",
+    "en": "Invisibility Field",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "隐身领域"
+  },
+  {
+    "offset": "0x27b83",
+    "en": "Skullsplitter",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "裂颅者"
+  },
+  {
+    "offset": "0x27ba3",
+    "en": "Multi-target makes allies harder to hit.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "降低全体队友被命中的概率。"
+  },
+  {
+    "offset": "0x27c47",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶"
+  },
+  {
+    "offset": "0x27c67",
+    "en": "Hornet Sting",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "蜂刺"
+  },
+  {
+    "offset": "0x27c87",
+    "en": "Fiend Mail",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "魔灵铠甲"
+  },
+  {
+    "offset": "0x27ca7",
+    "en": "Single-target high damage and inflicts serious poison.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "高额单体伤害，并施加剧毒。"
+  },
+  {
+    "offset": "0x27d4b",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶"
+  },
+  {
+    "offset": "0x27d6b",
+    "en": "Fast",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "加速"
+  },
+  {
+    "offset": "0x27d8b",
+    "en": "Ruby Helm",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "红宝石头盔"
+  },
+  {
+    "offset": "0x27dab",
+    "en": "Speeds up single target",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "使单个目标加速。"
+  },
+  {
+    "offset": "0x27e4f",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶"
+  },
+  {
+    "offset": "0x27e6f",
+    "en": "Blessing",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "祝福"
+  },
+  {
+    "offset": "0x27e8f",
+    "en": "Amulet of Immutability",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "恒定护符"
+  },
+  {
+    "offset": "0x27eaf",
+    "en": "Multi-target healing and status recovery.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "全体治疗，并解除负面状态。"
+  },
+  {
+    "offset": "0x27f53",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶"
+  },
+  {
+    "offset": "0x27f73",
+    "en": "Holy Bolt",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "圣光箭"
+  },
+  {
+    "offset": "0x27f93",
+    "en": "Earthshatterer",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "碎地者"
+  },
+  {
+    "offset": "0x27fb3",
+    "en": "Powerful single-target heavenly damage.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "强力圣属性单体伤害。"
+  },
+  {
+    "offset": "0x28057",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶"
+  },
+  {
+    "offset": "0x28077",
+    "en": "Frog`s Kiss",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "蛙吻"
+  },
+  {
+    "offset": "0x28097",
+    "en": "Frog`s Helm",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "青蛙头盔"
+  },
+  {
+    "offset": "0x280b7",
+    "en": "Single target status recovery and revival.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "解除单体负面状态并复活。"
+  },
+  {
+    "offset": "0x2815b",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶"
+  },
+  {
+    "offset": "0x2817b",
+    "en": "Wrath",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "狂怒"
+  },
+  {
+    "offset": "0x2819b",
+    "en": "Pure Mail",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "纯净铠甲"
+  },
+  {
+    "offset": "0x281bb",
+    "en": "Multi-target baleful damage. Inflicts weakness.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "煞属性群体伤害，并施加虚弱。"
+  },
+  {
+    "offset": "0x2825f",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶"
+  },
+  {
+    "offset": "0x2827f",
+    "en": "Flay",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "剥魂"
+  },
+  {
+    "offset": "0x2829f",
+    "en": "Choker of Infinite Qi",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "无尽真气项圈"
+  },
+  {
+    "offset": "0x282bf",
+    "en": "Multi-target infernal damage.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "对全体敌人造成炎属性伤害。"
+  },
+  {
+    "offset": "0x28363",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶"
+  },
+  {
+    "offset": "0x28383",
+    "en": "Black Chains",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "黑色锁链"
+  },
+  {
+    "offset": "0x283a3",
+    "en": "Annihilation",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "湮灭"
+  },
+  {
+    "offset": "0x283c3",
+    "en": "Extremely powerful single-target baleful damage.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "极强的煞属性单体伤害。"
+  },
+  {
+    "offset": "0x28467",
+    "en": "Qilin Star",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "麒麟·星"
+  },
+  {
+    "offset": "0x28487",
+    "en": "Gift of Life",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "生命恩赐"
+  },
+  {
+    "offset": "0x284a7",
+    "en": "Bonesmasher",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "碎骨者"
+  },
+  {
+    "offset": "0x284c7",
+    "en": "Single-target healing. Can revive fallen allies.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "恢复单个目标生命，可复活队友。"
+  },
+  {
+    "offset": "0x2856b",
+    "en": "Dragonfly Thunderbolt",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "蜻蜓·雷霆"
+  },
+  {
+    "offset": "0x2858b",
+    "en": "Gate of Inferno",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "炼狱之门"
+  },
+  {
+    "offset": "0x285ab",
+    "en": "Skysplitter",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "裂天者"
+  },
+  {
+    "offset": "0x285cb",
+    "en": "Single-target infernal damage.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "对单个目标造成炎属性伤害。"
+  },
+  {
+    "offset": "0x2866f",
+    "en": "Dragonfly Sky",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "蜻蜓·苍穹"
+  },
+  {
+    "offset": "0x2868f",
+    "en": "Hail Barrage",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "冰雹齐射"
+  },
+  {
+    "offset": "0x286af",
+    "en": "Fiend-Devil Glaive",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "妖魔长刀"
+  },
+  {
+    "offset": "0x286cf",
+    "en": "Multi-target frigid damage. Inflicts weak",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "冰属性群体伤害，并施加虚弱。"
+  },
+  {
+    "offset": "0x28773",
+    "en": "Dragonfly Patriarch",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "蜻蜓族长"
+  },
+  {
+    "offset": "0x28793",
+    "en": "Judgment",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "审判"
+  },
+  {
+    "offset": "0x287b3",
+    "en": "Thousand-Tipped Spear",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "千锋长矛"
+  },
+  {
+    "offset": "0x287d3",
+    "en": "Single-target heavenly damage.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "对单个目标造成圣属性伤害。"
+  },
+  {
+    "offset": "0x28877",
+    "en": "Dharmapala Raven",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "护法·鸦"
+  },
+  {
+    "offset": "0x28897",
+    "en": "Harvest",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "丰收"
+  },
+  {
+    "offset": "0x288b7",
+    "en": "Styx Scythe",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "冥河镰刀"
+  },
+  {
+    "offset": "0x288d7",
+    "en": "\"Multi-target healing, fast and status recovery.\"",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "全体治疗、加速并解除负面状态。"
+  },
+  {
+    "offset": "0x2897b",
+    "en": "Righteous Emperor",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "正道帝君"
+  },
+  {
+    "offset": "0x2899b",
+    "en": "Pestilence",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "瘟疫"
+  },
+  {
+    "offset": "0x289bb",
+    "en": "Starmetal Daggers",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "星铁双匕"
+  },
+  {
+    "offset": "0x289db",
+    "en": "Multi-target baleful damage. Inflicts serious poison.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "煞属性群体伤害，并施加剧毒。"
+  },
+  {
+    "offset": "0x28a7f",
+    "en": "Qilin Hawk",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "麒麟·鹰"
+  },
+  {
+    "offset": "0x28a9f",
+    "en": "Dark Dart",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "暗影飞矢"
+  },
+  {
+    "offset": "0x28abf",
+    "en": "Divine Swordbreaker",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "神圣破剑者"
+  },
+  {
+    "offset": "0x28adf",
+    "en": "Single-target baleful damage.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "对单个目标造成煞属性伤害。"
+  }
+]

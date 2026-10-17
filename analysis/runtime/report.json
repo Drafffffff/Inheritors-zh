@@ -1,0 +1,11 @@
+{
+  "sha256": "b17e02f3210c7c0e3d7fa51509ad31f0728d7ea4404c9a028ac6feea10e051c6",
+  "records": 249,
+  "font_widths_checked": true,
+  "glyph_pixel_checks": 1190,
+  "dialogue_layout_checked": true,
+  "save_ui_written": true,
+  "battle_fixture": "original force_fixed_encounter(0), attack and spirit-technique menus; RAM-only fixture",
+  "max_draw_instructions": 109531,
+  "limits": "mGBA smoke test plus RAM-only renderer checks; not a complete playthrough or hardware test."
+}

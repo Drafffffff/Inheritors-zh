@@ -1,0 +1,47 @@
+{
+  "sha256": "b17e02f3210c7c0e3d7fa51509ad31f0728d7ea4404c9a028ac6feea10e051c6",
+  "records": 249,
+  "font_widths_checked": true,
+  "glyph_pixel_checks": 1190,
+  "dialogue_layout_checked": true,
+  "save_ui_written": true,
+  "battle_fixture": "original force_fixed_encounter(0), attack and spirit-technique menus; RAM-only fixture",
+  "max_draw_instructions": 109531,
+  "limits": "No complete playthrough, all floors/bosses, old-save recovery, hardware or audio verification. All 249 text layouts and data-derived composites were checked mathematically; only sampled UI/dialogues were visually inspected. Frame metrics/contacts show no added black-frame pattern; they cannot automatically prove absence of every local visual artifact in unvisited scenes. Battle entry uses a RAM-only fixture.",
+  "review": "2026-10-11 final translation/layout/transition review",
+  "previous_sha256": "33a35095e159721710d6a4da375f87fe80fd6ba00cc551899821ee381d884f77",
+  "fixes": [
+    {
+      "issue": "Attribute grid has two 80px columns. Four-slot data-derived HP bound plus gain could occupy 85px and mix full-width opening/ASCII closing parentheses.",
+      "change": "Use compact ASCII colon for six attribute prefixes and matched ASCII (+N) without leading space.",
+      "before": "生命：4100（+1000)",
+      "before_width": 85,
+      "after": "生命:4100(+1000)",
+      "after_width": 75,
+      "cell_width": 80
+    }
+  ],
+  "static_review": {
+    "records": 249,
+    "translated": 243,
+    "retained": 6,
+    "dynamic_composites": 138,
+    "layout_report": "analysis/qa_layout.json",
+    "all_layout_assertions": "pass"
+  },
+  "continuous_frames": {
+    "original_frames": 4590,
+    "final_frames": 4590,
+    "transitions_per_rom": 48,
+    "per_transition_frames": "45-240",
+    "new_or_different_nearly_black_frame_patterns": [],
+    "nearly_black_frames": "Only new-game entry has eight nearly black frames, same original and final frame indexes.",
+    "unique_frame_counts": "Equal for all 48 corresponding transitions",
+    "evidence": "analysis/qa_review_frames/report.json + per-step GIF/contact PNG/frame JSON",
+    "scenarios": "Title/new-game entry, six opening dialogue advances and closure, equipment detail entry/back, all five main menu selections, configuration/back, save slots/write/back, map turning/movement, RAM-fixture battle entry/attack/spirit-technique/target/result flow."
+  },
+  "remaining_english": {
+    "allowed": "Six explicit author/brand/debug/separator records; A/B/L/R/START and conventional numerical units.",
+    "visible_untranslated_game_copy_in_reviewed_scenes": "None found"
+  }
+}

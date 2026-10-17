@@ -1,0 +1,2615 @@
+[
+  {
+    "offset": "0xa13148",
+    "en": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+    "zh": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+    "retain_reason": "original credit/debug/separator",
+    "encoded": "4040404040404040404040404040404040404040404040404040404040404040",
+    "refs": [
+      "retained"
+    ]
+  },
+  {
+    "offset": "0xa1526c",
+    "en": "The quick brown fox.",
+    "zh": "The quick brown fox.",
+    "retain_reason": "original credit/debug/separator",
+    "encoded": "54686520717569636b2062726f776e20666f782e",
+    "refs": [
+      "retained"
+    ]
+  },
+  {
+    "offset": "0xa15284",
+    "en": "Surprise attack!",
+    "zh": "突袭！",
+    "retain_reason": "",
+    "encoded": "81a081db8254",
+    "refs": [
+      "0x20b0"
+    ]
+  },
+  {
+    "offset": "0xa15298",
+    "en": " (Qi: ",
+    "zh": " (真气：",
+    "retain_reason": "",
+    "encoded": "2028818781508256",
+    "refs": [
+      "0x2568"
+    ]
+  },
+  {
+    "offset": "0xa152a4",
+    "en": "Insufficient Qi",
+    "zh": "真气不足",
+    "retain_reason": "",
+    "encoded": "81878150800c81fb",
+    "refs": [
+      "0x4460",
+      "0xc738"
+    ]
+  },
+  {
+    "offset": "0xa152b4",
+    "en": "Defending",
+    "zh": "防御中",
+    "retain_reason": "",
+    "encoded": "822e80e68011",
+    "refs": [
+      "0x4458"
+    ]
+  },
+  {
+    "offset": "0xa152c0",
+    "en": "Passing",
+    "zh": "待机",
+    "retain_reason": "",
+    "encoded": "80e3813b",
+    "refs": [
+      "0x4454"
+    ]
+  },
+  {
+    "offset": "0xa152c8",
+    "en": "There is no escape",
+    "zh": "无法逃脱",
+    "retain_reason": "",
+    "encoded": "812c8156820f81c6",
+    "refs": [
+      "0x444c"
+    ]
+  },
+  {
+    "offset": "0xa152dc",
+    "en": "Escaped!",
+    "zh": "逃脱成功！",
+    "retain_reason": "",
+    "encoded": "820f81c680fd80688254",
+    "refs": [
+      "0x4468"
+    ]
+  },
+  {
+    "offset": "0xa152e8",
+    "en": "Failed to escape",
+    "zh": "逃脱失败",
+    "retain_reason": "",
+    "encoded": "820f81c680ab81f3",
+    "refs": [
+      "0x4464"
+    ]
+  },
+  {
+    "offset": "0xa152fc",
+    "en": "Paralysis",
+    "zh": "麻痹",
+    "retain_reason": "",
+    "encoded": "8251817e",
+    "refs": [
+      "0x4724",
+      "0x11158"
+    ]
+  },
+  {
+    "offset": "0xa15308",
+    "en": "Your inheritor's quest has come to an end.",
+    "zh": "传承者的旅途就此结束。",
+    "retain_reason": "",
+    "encoded": "8033810a81bf8181812a821280cb814981b5813d8005",
+    "refs": [
+      "0x6d20",
+      "0x7320",
+      "0x7864"
+    ]
+  },
+  {
+    "offset": "0xa15334",
+    "en": "You were victorious in combat!",
+    "zh": "战斗胜利！",
+    "retain_reason": "",
+    "encoded": "8103812781c4805d8254",
+    "refs": [
+      "0x6f64"
+    ]
+  },
+  {
+    "offset": "0xa15354",
+    "en": "You were victorious in combat! You have obtained the following:",
+    "zh": "战斗胜利！获得以下战利品：",
+    "retain_reason": "",
+    "encoded": "8103812781c4805d825481cc80e5802d800b8103805d808e8256",
+    "refs": [
+      "0x6f4c"
+    ]
+  },
+  {
+    "offset": "0xa15394",
+    "en": "Is this...?",
+    "zh": "这是……？",
+    "retain_reason": "",
+    "encoded": "820a8131800380038257",
+    "refs": [
+      "0x6f68"
+    ]
+  },
+  {
+    "offset": "0xa153a0",
+    "en": "Correct, this is what we came here for. The inert form of these spirit creatures; spirit crystals.",
+    "zh": "没错，这就是我们要找的。这些灵体沉寂后，会化为灵晶。",
+    "retain_reason": "",
+    "encoded": "815382268255820a80cb813180fe802e81df810981818005820a801f8161803a815280c4808282558031806e8013816181338005",
+    "refs": [
+      "0x6f6c"
+    ]
+  },
+  {
+    "offset": "0xa15404",
+    "en": "Fantastic; we can use these to gain some of the powers of these spirit creatures. They will also be invaluable treasures to bring back to the clan.",
+    "zh": "太好了！它们能让我们掌握灵体的部分力量，带回族中更是价值连城的宝物。",
+    "retain_reason": "",
+    "encoded": "80aa80af801a825480ba802e81c581e580fe802e811a811c8161803a8181821a80598066821e825580d68093812b801181358131802f8043820d809e818180bf816d8005",
+    "refs": [
+      "0x6f70"
+    ]
+  },
+  {
+    "offset": "0xa15498",
+    "en": "(Press START to open up the menu and select the second option to equip your party with spirit crystals. Spirit crystals improve your stats and give you access to more techniques.)",
+    "zh": "按START打开菜单，选择第二项装备灵晶。灵晶可提升属性，并让你习得更多灵术。",
+    "retain_reason": "",
+    "encoded": "81155354415254810880de81ce807282558210811181a6801c823f81dd80a481618133800581618133807f811b807180cf80ee825580d981e5803d801980e5813580a78161813a8005",
+    "refs": [
+      "0x6f74"
+    ]
+  },
+  {
+    "offset": "0xa1554c",
+    "en": "That creature seems to have dropped something...",
+    "zh": "那只生物似乎掉了什么……",
+    "retain_reason": "",
+    "encoded": "8219807d8176816d803580168119801a8024801480038003",
+    "refs": [
+      "0x6f54"
+    ]
+  },
+  {
+    "offset": "0xa15580",
+    "en": "Yes, this is a fantastic find. The latent Qi in this place has coalesced into godrelics. Powerful equipment that will help us survive in here.",
+    "zh": "真是重大发现！这里积聚的真气凝成了神遗物。这些强力装备能助我们在此生存。",
+    "retain_reason": "",
+    "encoded": "81878131821d80a8807a81748254820a821c819a81c3818181878150805480fd801a81968217816d8005820a801f80e0806681dd80a481c5806c80fe802e80998149817680b88005",
+    "refs": [
+      "0x6f58"
+    ]
+  },
+  {
+    "offset": "0xa15610",
+    "en": "Indeed, this is a fortunate discovery. We should equip it at once.",
+    "zh": "的确是意外之喜。我们赶紧装备上吧。",
+    "retain_reason": "",
+    "encoded": "8181818f813180f980a680158091800580fe802e81f681ac81dd80a4800a80858005",
+    "refs": [
+      "0x6f5c"
+    ]
+  },
+  {
+    "offset": "0xa15654",
+    "en": "(Press START to open up the menu and select the first option to equip your party with godrelics. Godrelics can improve your combat potential, reduce the damage you take and more.)",
+    "zh": "按START打开菜单，选择第一项装备神遗物。神遗物可提升战力、减少所受伤害等。",
+    "retain_reason": "",
+    "encoded": "81155354415254810880de81ce807282558210811181a68008823f81dd80a481968217816d800581968217816d807f811b8071810380668004805380ca8104807b803480c281a78005",
+    "refs": [
+      "0x6f60"
+    ]
+  },
+  {
+    "offset": "0xa15708",
+    "en": "A locked door...",
+    "zh": "锁着的门……",
+    "retain_reason": "",
+    "encoded": "822481888181822980038003",
+    "refs": [
+      "0x70bc"
+    ]
+  },
+  {
+    "offset": "0xa1571c",
+    "en": "We should look around and see if there is something that unlocks this. The antecedents were very fond of their elaborate mechanical contraptions and devices.",
+    "zh": "到附近找找开门的办法吧。先民们非常喜爱精巧繁复的机关装置。",
+    "retain_reason": "",
+    "encoded": "805f822f82088109810980de8229818180678156808580058046814f802e823b80d78091816c81ab80d181ad80a58181813b804a81dd81bc8005",
+    "refs": [
+      "0x70c0"
+    ]
+  },
+  {
+    "offset": "0xa157bc",
+    "en": "Looks like another locked door. We should search for another switch or button, see if something opens this.",
+    "zh": "又是一扇锁着的门。找找其他开关或按钮，看看能否打开。",
+    "retain_reason": "",
+    "encoded": "80778131800881058224818881818229800581098109804c802980de804a81028115821f82558186818681c58084810880de8005",
+    "refs": [
+      "0x70d0"
+    ]
+  },
+  {
+    "offset": "0xa15828",
+    "en": "Locked again...",
+    "zh": "又锁了……",
+    "retain_reason": "",
+    "encoded": "80778224801a80038003",
+    "refs": [
+      "0x70c4"
+    ]
+  },
+  {
+    "offset": "0xa15838",
+    "en": "This is starting to get old. Did you see anything on the wall that we might have missed on the way here?",
+    "zh": "真是没完没了。来时路上的墙壁，有没有什么被我们漏看的东西？",
+    "retain_reason": "",
+    "encoded": "81878131815380bd8153801a8005813e812f81fd800a818180a180a382558136815381368024801481da80fe802e815e81868181800f81de8257",
+    "refs": [
+      "0x70c8"
+    ]
+  },
+  {
+    "offset": "0xa158a4",
+    "en": "I don't think so, but we should certainly look around.",
+    "zh": "应该没有，不过还是仔细找找吧。",
+    "retain_reason": "",
+    "encoded": "80db81eb815381368255800c820782098131802881b28109810980858005",
+    "refs": [
+      "0x70cc"
+    ]
+  },
+  {
+    "offset": "0xa158dc",
+    "en": "The mysterious plaque evades your attempts at comprehension.",
+    "zh": "你无法理解这块神秘石碑上的文字。",
+    "retain_reason": "",
+    "encoded": "803d812c8156817581e2820a809c81968199818c8191800a8181812680b78005",
+    "refs": [
+      "0x72b0"
+    ]
+  },
+  {
+    "offset": "0xa1591c",
+    "en": "Stepping on the tile has healed and reenergised you.",
+    "zh": "踏上地砖后，你的生命与真气都恢复了。",
+    "retain_reason": "",
+    "encoded": "81fe800a809a818d80828255803d81818176808c800d81878150821b80f280a5801a8005",
+    "refs": [
+      "0x75dc"
+    ]
+  },
+  {
+    "offset": "0xa15954",
+    "en": "\"The portal worked. Our Qilin clan may yet realise some good fortune from this after all.\"",
+    "zh": "「传送门生效了。看来我麒麟族终究有望在此获得一番机缘。」",
+    "retain_reason": "",
+    "encoded": "80068033820e822981768121801a80058186813e80fe824f8250812b81b3819d813681378099814981cc80e58008817a813b81b980058007",
+    "refs": [
+      "0x7c90",
+      "0x8a2c"
+    ]
+  },
+  {
+    "offset": "0xa159b0",
+    "en": "\"So this is the ancient training ground... I can already sense the presence of spirit entities.\"",
+    "zh": "「这就是上古试炼之地……我已经感应到灵体的存在了。」",
+    "retain_reason": "",
+    "encoded": "8006820a80cb8131800a807c81e981648015809a8003800380fe80d381b480fa80db805f8161803a818180b88099801a80058007",
+    "refs": [
+      "0x7c94",
+      "0x8a30"
+    ]
+  },
+  {
+    "offset": "0xa15a14",
+    "en": "\"Be careful, clan sister Star. While the spirit crystals have the potential to bring us great power, the spirit entities are not to be underestimated.\"",
+    "zh": "「星师妹，务必小心。灵晶虽能给我们强大力量，但这些灵体也绝不能轻视。」",
+    "retain_reason": "",
+    "encoded": "8006813080d480b48255806a80e880c980e780058161813381d281c581b680fe802e80e080a88066821e82558036820a801f8161803a801881b7800c81c5820381e080058007",
+    "refs": [
+      "0x7c98",
+      "0x8a34"
+    ]
+  },
+  {
+    "offset": "0xa15aac",
+    "en": "\"I know that, clan brother Hawk. With these godrelics the clan patriarch provided us, we should surely be fine.\"",
+    "zh": "「我知道，鹰师兄。有族长赐下的这些神遗物，我们一定能安然无恙。」",
+    "retain_reason": "",
+    "encoded": "800680fe818b82168255824e80d4804480058136812b822881f4800b8181820a801f81968217816d825580fe802e800880be81c580bc8169812c80f180058007",
+    "refs": [
+      "0x7c9c",
+      "0x8a38"
+    ]
+  },
+  {
+    "offset": "0xa15b20",
+    "en": "\"These may be almighty relics back in our realm, but this is an ancient macrocosm. That is why the rewards will be so great. Because the risk is even higher.\"",
+    "zh": "「它们在我们那方天地是至宝，可这里是上古大世界。收益越大，风险便越高。」",
+    "retain_reason": "",
+    "encoded": "800680ba802e809980fe802e8219812880a9809a813181c980bf8255807f820a821c8131800a807c80a8800e81798005811f818381f980a8825582438232803f81f9824980058007",
+    "refs": [
+      "0x7ca0",
+      "0x8a3c"
+    ]
+  },
+  {
+    "offset": "0xa15bc0",
+    "en": "\"Look, we should just hurry along and see if we can find something good to take back to the clan. The portal only opens once every 10,000 years after all. I don't want to miss anything.\"",
+    "zh": "「快走吧，看看能带什么宝物回族里。传送门万年才开一次，我可不想错过机缘。」",
+    "retain_reason": "",
+    "encoded": "800680ea81f5808582558186818681c580d68024801480bf816d8093812b821c80058033820e8229800980d8810780de80088147825580fe807f800c80f782268207813b81b980058007",
+    "refs": [
+      "0x7ca4",
+      "0x8a40"
+    ]
+  },
+  {
+    "offset": "0xa15c7c",
+    "en": "\"Halt! You have trespassed upon the sacred training grounds of the great Dragonfly clan! Hand over any treasures you have found and leave at once!\"",
+    "zh": "「站住！你们擅闯了伟大蜻蜓族的神圣试炼之地！交出寻得的宝物，立刻离开！」",
+    "retain_reason": "",
+    "encoded": "800681a280398254803d802e811e822b801a803280a881d781d6812b81818196809881e981648015809a82548021805680c680e5818180bf816d825581a18062819880de82548007",
+    "refs": [
+      "0x7e84"
+    ]
+  },
+  {
+    "offset": "0xa15d10",
+    "en": "\"Who the hell are you? I've never heard of this Dragonfly clan before. Our Qilin clan has been using these grounds to train our chosen sons and daughters for hundreds of thousands of years!\"",
+    "zh": "「你谁啊？蜻蜓族？从没听过。我麒麟族在此磨炼族中天骄，已有数十万年！」",
+    "retain_reason": "",
+    "encoded": "8006803d81ee8090825781d781d6812b82578027815380868207800580fe824f8250812b8099814981928164812b801180a98247825580d381368125806f800980d882548007",
+    "refs": [
+      "0x7e88"
+    ]
+  },
+  {
+    "offset": "0xa15dd0",
+    "en": "\"That you do not show proper respect to the great Dragonfly Thunderbolt is an insult so great that it can only be washed away with the blood of your entire clan!\"",
+    "zh": "「竟敢对我蜻蜓雷霆如此无礼！此等奇耻大辱，唯有用你全族的血才能洗清！」",
+    "retain_reason": "",
+    "encoded": "800681a3812480c580fe81d781d68236823880b08149812c81938254814981a780ad81c280a882058255808f81368177803d8049812b818181d8810781c58157815b82548007",
+    "refs": [
+      "0x7e8c"
+    ]
+  },
+  {
+    "offset": "0xa15e74",
+    "en": "\"Listen, I don't know who you are and I don't care. I'm only going to warn you once. Turn around and leave now or you will regret it.\"",
+    "zh": "「听着，我不管你是谁，也没兴趣知道。我只警告一次：转身离开，否则后果自负。」",
+    "retain_reason": "",
+    "encoded": "800680868188825580fe800c81a9803d813181ee825580188153804b81fa818b8216800580fe807d81e3808980088147825682028201819880de82558084805a8082814081c881f280058007",
+    "refs": [
+      "0x7e90"
+    ]
+  },
+  {
+    "offset": "0xa15efc",
+    "en": "\"Apparently rudeness and overconfidence go hand in hand. Very well, but it is you who will soon regret your rash choice of actions!\"",
+    "zh": "「果然，狂妄之人总是目中无人。很好，马上你就会为自己的鲁莽悔不当初！」",
+    "retain_reason": "",
+    "encoded": "8006814081698255816f80b18015802380ef813181858011812c8023800580e480af82558246800a803d80cb8031801381c880d28181824c81cd80f6800c80e1805b82548007",
+    "refs": [
+      "0x7e94"
+    ]
+  },
+  {
+    "offset": "0xa15f84",
+    "en": "\"They are too powerful. I can't go on. Forgive me, Patriarch.\"",
+    "zh": "「他们太强了……我撑不住了。族长，请原谅我。」",
+    "retain_reason": "",
+    "encoded": "80068029802e80aa80e0801a8003800380fe811d800c8039801a8005812b8228825581ed807581ef80fe80058007",
+    "refs": [
+      "0x7ea4"
+    ]
+  },
+  {
+    "offset": "0xa15fc4",
+    "en": "\"I told you not to mess with us.\"",
+    "zh": "「早就说了，别来招惹我们。」",
+    "retain_reason": "",
+    "encoded": "8006812e80cb81ec801a8255805e813e811080f880fe802e80058007",
+    "refs": [
+      "0x7ea8"
+    ]
+  },
+  {
+    "offset": "0xa15fe8",
+    "en": "\"I finally managed to track you down! You will pay for what you did to the young scion of the Dragonfly clan, Dragonfly Thunderbolt!\"",
+    "zh": "「总算找到你们了！你们竟敢伤我蜻蜓族天骄雷霆，今日定要付出代价！」",
+    "retain_reason": "",
+    "encoded": "800680ef81a88109805f803d802e801a8254803d802e81a38124803480fe81d781d6812b80a982478236823882558026812d80be81df802a8056802c802f82548007",
+    "refs": [
+      "0x8090"
+    ]
+  },
+  {
+    "offset": "0xa16070",
+    "en": "\"There's more of you Dragonfly people around? All right, I'll bite. What's your name?\"",
+    "zh": "「蜻蜓族还没完了？行吧，那你叫什么名字？」",
+    "retain_reason": "",
+    "encoded": "800681d781d6812b8209815380bd801a825781d9808582558219803d807e80248014808180b782578007",
+    "refs": [
+      "0x8094"
+    ]
+  },
+  {
+    "offset": "0xa160c8",
+    "en": "\"You would do well to learn the name of Dragonfly Sky, the Holy Daughter of the Dragonfly clan!\"",
+    "zh": "「记住我的名号！我是蜻蜓族圣女，蜻蜓苍穹！」",
+    "retain_reason": "",
+    "encoded": "800681e6803980fe818180818080825480fe813181d781d6812b809880ae825581d781d681cb819e82548007",
+    "refs": [
+      "0x8098"
+    ]
+  },
+  {
+    "offset": "0xa1612c",
+    "en": "\"I'm not sure we really need to learn it, though.\"",
+    "zh": "「我倒觉得，没必要记住呢。」",
+    "retain_reason": "",
+    "encoded": "800680fe804281e180e58255815380e881df81e68039808b80058007",
+    "refs": [
+      "0x809c"
+    ]
+  },
+  {
+    "offset": "0xa16160",
+    "en": "\"How is this possible?\"",
+    "zh": "「怎么可能？」",
+    "retain_reason": "",
+    "encoded": "800680ec8014807f81c582578007",
+    "refs": [
+      "0x80ac"
+    ]
+  },
+  {
+    "offset": "0xa16178",
+    "en": "\"All we wanted you to do was leave us alone... what was your name again?\"",
+    "zh": "「我们只是想让你别来纠缠……对了，你叫什么来着？」",
+    "retain_reason": "",
+    "encoded": "800680fe802e807d813180f781e5803d805e813e81ae81ba8003800380c5801a8255803d807e80248014813e818882578007",
+    "refs": [
+      "0x80b0"
+    ]
+  },
+  {
+    "offset": "0xa161c4",
+    "en": "\"You... you... augh!\"",
+    "zh": "「你……你……啊！」",
+    "retain_reason": "",
+    "encoded": "8006803d80038003803d80038003809082548007",
+    "refs": [
+      "0x80b4"
+    ]
+  },
+  {
+    "offset": "0xa161dc",
+    "en": "\"How dare you spill the blood of the younger generation of the Dragonfly clan! This insult you have dealt us is close to unendurable. Now only I, Dragonfly Patriarch, can address this insult to my clan!\"",
+    "zh": "「竟敢杀害我蜻蜓族晚辈！如此大辱，岂能容忍？唯有我蜻蜓族长亲自出手，方能雪耻！」",
+    "retain_reason": "",
+    "encoded": "800681a38124813c80c280fe81d781d6812b81328204825480b0814980a88205825580d081c580c380e98257808f813680fe81d781d6812b8228802281c8805681068255812881c5823581c282548007",
+    "refs": [
+      "0x828c"
+    ]
+  },
+  {
+    "offset": "0xa162a8",
+    "en": "\"Listen, we have no great emnity with you. Your clan simply needs to do a better job keepings its Chosen in check. We are willing to walk away.\"",
+    "zh": "「我们与你并无深仇大恨。管好你族里的天骄就行。我们愿意就此作罢。」",
+    "retain_reason": "",
+    "encoded": "800680fe802e800d803d80d9812c815a802580a880f3800581a980af803d812b821c818180a9824780cb81d9800580fe802e80fb80f980cb8149803c81bb80058007",
+    "refs": [
+      "0x8290"
+    ]
+  },
+  {
+    "offset": "0xa1633c",
+    "en": "\"The time for words has long passed.\"",
+    "zh": "「如今再说什么，都晚了。」",
+    "retain_reason": "",
+    "encoded": "800680b08026804d81ec802480148255821b8132801a80058007",
+    "refs": [
+      "0x8294"
+    ]
+  },
+  {
+    "offset": "0xa16364",
+    "en": "\"He's in no mood to negotiate. Star, get ready!\"",
+    "zh": "「他根本不想谈。星，准备战斗！」",
+    "retain_reason": "",
+    "encoded": "8006802981438139800c80f781f0800581308255805280a48103812782548007",
+    "refs": [
+      "0x8298"
+    ]
+  },
+  {
+    "offset": "0xa16398",
+    "en": "\"It's not over. You will not get away with this.\"",
+    "zh": "「还没结束……你们休想逃过报应。」",
+    "retain_reason": "",
+    "encoded": "80068209815381b5813d80038003803d802e803080f7820f8207810f80db80058007",
+    "refs": [
+      "0x82a8"
+    ]
+  },
+  {
+    "offset": "0xa163cc",
+    "en": "\"I see some intrusive insects have emerged.\"",
+    "zh": "「看来，钻进来了几只恼人的虫子。」",
+    "retain_reason": "",
+    "encoded": "80068186813e82558220820b813e801a8055807d80f58023818181d180b680058007",
+    "refs": [
+      "0x8488"
+    ]
+  },
+  {
+    "offset": "0xa163fc",
+    "en": "\"Oh great. Don't tell me, you're the Dragonfly Matriarch and you're really angry with us for demolishing your clan.\"",
+    "zh": "「真好。别告诉我，你是蜻蜓族的族母，因为我们打垮你全族而气坏了。」",
+    "retain_reason": "",
+    "encoded": "8006818780af8005805e808981e880fe8255803d813181d781d6812b8181812b814c82558094801380fe802e8108809d803d8049812b81c08150809b801a80058007",
+    "refs": [
+      "0x848c"
+    ]
+  },
+  {
+    "offset": "0xa16474",
+    "en": "\"I don't have one whit of care for your clan squabbles, but I will take possession of those spirit crystals and spirit items you've been hoarding.\"",
+    "zh": "「我对你们的族群纷争毫无兴趣。不过，你们囤积的灵晶与灵物，我就收下了。」",
+    "retain_reason": "",
+    "encoded": "800680fe80c5803d802e8181812b81be81b1801b814e812c804b81fa8005800c82078255803d802e8095819a818181618133800d8161816d825580fe80cb811f800b801a80058007",
+    "refs": [
+      "0x8490"
+    ]
+  },
+  {
+    "offset": "0xa16508",
+    "en": "\"We aren't going to let you do that!\"",
+    "zh": "「我们不会让你得逞！」",
+    "retain_reason": "",
+    "encoded": "800680fe802e800c803181e5803d80e5821382548007",
+    "refs": [
+      "0x8494"
+    ]
+  },
+  {
+    "offset": "0xa16530",
+    "en": "\"Thunder... Sky... I'm sorry...\"",
+    "zh": "「雷霆……苍穹……对不起……」",
+    "retain_reason": "",
+    "encoded": "8006823682388003800381cb819e8003800380c5800c81f7800380038007",
+    "refs": [
+      "0x84a4"
+    ]
+  },
+  {
+    "offset": "0xa16554",
+    "en": "\"I see others have come for what is rightfully mine, but only I, Righteous Emperor, have the strength to take it!\"",
+    "zh": "「又有人来抢本属于我的东西。但唯有我正道帝君，才有实力将其据为己有！」",
+    "retain_reason": "",
+    "encoded": "8006807781368023813e810d813980cf801d80fe8181800f81de80058036808f813680fe8148821680d5808382558107813680c0806680c8804c8117801380d2813682548007",
+    "refs": [
+      "0x884c"
+    ]
+  },
+  {
+    "offset": "0xa165c8",
+    "en": "\"Try telling that to the Dragonfly clan.\"",
+    "zh": "「这话不妨去对蜻蜓族说。」",
+    "retain_reason": "",
+    "encoded": "8006820a81ea800c80b3807680c581d781d6812b81ec80058007",
+    "refs": [
+      "0x8850"
+    ]
+  },
+  {
+    "offset": "0xa165f4",
+    "en": "\"Laugh it up while you still can. Your adventure and your lives end here.\"",
+    "zh": "「趁现在还能笑，就尽管笑吧。你们的旅途与性命，都将在此终结。」",
+    "retain_reason": "",
+    "encoded": "800681f881748099820981c581a4825580cb80cc81a981a480858005803d802e8181812a8212800d80ee808c8255821b80c88099814981b381b580058007",
+    "refs": [
+      "0x8854"
+    ]
+  },
+  {
+    "offset": "0xa16640",
+    "en": "\"Hawk, watch out!\"",
+    "zh": "「鹰，小心！」",
+    "retain_reason": "",
+    "encoded": "8006824e825580c980e782548007",
+    "refs": [
+      "0x8858"
+    ]
+  },
+  {
+    "offset": "0xa16654",
+    "en": "\"What... how?\"",
+    "zh": "「什么……怎么会？」",
+    "retain_reason": "",
+    "encoded": "8006802480148003800380ec8014803182578007",
+    "refs": [
+      "0x8868"
+    ]
+  },
+  {
+    "offset": "0xa16664",
+    "en": "\"We learned how to fight here. Our ancestors stretching back to time memorial trained on these grounds.\"",
+    "zh": "「我们在这里学会了战斗。自远古以来，我们的历代先祖都在此修行。」",
+    "retain_reason": "",
+    "encoded": "800680fe802e8099820a821c80b98031801a81038127800581c8820c807c802d813e825580fe802e81818074802c80468194821b80998149804181d980058007",
+    "refs": [
+      "0x886c"
+    ]
+  },
+  {
+    "offset": "0xa166d0",
+    "en": "\"As far as we are concerned, this place is ours. Who are you, and why did you come here?\"",
+    "zh": "「在我们看来，这里本就属于我们。你是谁？为何来到这里？」",
+    "retain_reason": "",
+    "encoded": "8006809980fe802e8186813e8255820a821c813980cb80cf801d80fe802e8005803d813181ee82578013803b813e805f820a821c82578007",
+    "refs": [
+      "0x8870"
+    ]
+  },
+  {
+    "offset": "0xa1672c",
+    "en": "\"Ugh...\"",
+    "zh": "「呃……」",
+    "retain_reason": "",
+    "encoded": "80068088800380038007",
+    "refs": [
+      "0x8874"
+    ]
+  },
+  {
+    "offset": "0xa16738",
+    "en": "\"He's dead.\"",
+    "zh": "「他死了。」",
+    "retain_reason": "",
+    "encoded": "80068029814b801a80058007",
+    "refs": [
+      "0x887c"
+    ]
+  },
+  {
+    "offset": "0xa16748",
+    "en": "\"I'm glad that's over. Clan brother Hawk, grab everything that you can and let's go.\"",
+    "zh": "「终于结束了。鹰师兄，把能拿的都拿上，我们走吧。」",
+    "retain_reason": "",
+    "encoded": "800681b3801d81b5813d801a8005824e80d480448255810b81c581128181821b8112800a825580fe802e81f5808580058007",
+    "refs": [
+      "0x8880"
+    ]
+  },
+  {
+    "offset": "0xa167a0",
+    "en": "\"The Qilin will never be vanquished.\"",
+    "zh": "「麒麟族永不败亡。」",
+    "retain_reason": "",
+    "encoded": "8006824f8250812b8151800c81f3802080058007",
+    "refs": [
+      "0x8884"
+    ]
+  },
+  {
+    "offset": "0xa167c8",
+    "en": "\"Never.\"",
+    "zh": "「永不。」",
+    "retain_reason": "",
+    "encoded": "80068151800c80058007",
+    "refs": [
+      "0x8888"
+    ]
+  },
+  {
+    "offset": "0xa167d4",
+    "en": "Life: ",
+    "zh": "生命:",
+    "retain_reason": "",
+    "encoded": "8176808c3a",
+    "refs": [
+      "0x8ebc",
+      "0xbeb8"
+    ]
+  },
+  {
+    "offset": "0xa167e4",
+    "en": "Qi: ",
+    "zh": "真气:",
+    "retain_reason": "",
+    "encoded": "818781503a",
+    "refs": [
+      "0x8ec8",
+      "0xbec4"
+    ]
+  },
+  {
+    "offset": "0xa167ec",
+    "en": "Spirit crystals: ",
+    "zh": "灵晶：",
+    "retain_reason": "",
+    "encoded": "816181338256",
+    "refs": [
+      "0x8ed0"
+    ]
+  },
+  {
+    "offset": "0xa16800",
+    "en": "Time played: ",
+    "zh": "游玩时间：",
+    "retain_reason": "",
+    "encoded": "815c8173812f822c8256",
+    "refs": [
+      "0x8ed4"
+    ]
+  },
+  {
+    "offset": "0xa16814",
+    "en": "With the rival clans expelled from the Oubliette,",
+    "zh": "敌对族群被逐出遗落之境，",
+    "retain_reason": "",
+    "encoded": "812280c5812b81be81da82118056821781cf801580a08255",
+    "refs": [
+      "0x11064"
+    ]
+  },
+  {
+    "offset": "0xa16848",
+    "en": "the Qilin clan's legacy has been secured.",
+    "zh": "麒麟族的传承得以延续。",
+    "retain_reason": "",
+    "encoded": "824f8250812b81818033810a80e5802d80dd81b88005",
+    "refs": [
+      "0x11068"
+    ]
+  },
+  {
+    "offset": "0xa16874",
+    "en": "The spirit crystals and godrelics retrieved by",
+    "zh": "麒麟族的鹰与星带回的",
+    "retain_reason": "",
+    "encoded": "824f8250812b8181824e800d813080d680938181",
+    "refs": [
+      "0x11070"
+    ]
+  },
+  {
+    "offset": "0xa168a4",
+    "en": "Qilin Hawk and Qilin Star will be used to",
+    "zh": "灵晶和神遗物，",
+    "retain_reason": "",
+    "encoded": "81618133808d81968217816d8255",
+    "refs": [
+      "0x11074"
+    ]
+  },
+  {
+    "offset": "0xa168d0",
+    "en": "support the younger generation for centuries",
+    "zh": "将在未来数百年间，",
+    "retain_reason": "",
+    "encoded": "80c880998138813e8125818080d8822c8255",
+    "refs": [
+      "0x11078"
+    ]
+  },
+  {
+    "offset": "0xa16900",
+    "en": "to come, further cementing the Qilin clan's",
+    "zh": "助力族中后辈的修行，",
+    "retain_reason": "",
+    "encoded": "806c8066812b8011808282048181804181d98255",
+    "refs": [
+      "0x1107c"
+    ]
+  },
+  {
+    "offset": "0xa1692c",
+    "en": "position in the immortal world.",
+    "zh": "稳固麒麟族在仙界的地位。",
+    "retain_reason": "",
+    "encoded": "819c8096824f8250812b8099802b81798181809a80378005",
+    "refs": [
+      "0x11080"
+    ]
+  },
+  {
+    "offset": "0xa1694c",
+    "en": "INHERITORS of the OUBLIETTE",
+    "zh": "遗落之境的传承者",
+    "retain_reason": "",
+    "encoded": "821781cf801580a081818033810a81bf",
+    "refs": [
+      "0x11098"
+    ]
+  },
+  {
+    "offset": "0xa16968",
+    "en": "----------       ---------",
+    "zh": "----------       ---------",
+    "retain_reason": "original credit/debug/separator",
+    "encoded": "2d2d2d2d2d2d2d2d2d2d202020202020202d2d2d2d2d2d2d2d2d",
+    "refs": [
+      "retained"
+    ]
+  },
+  {
+    "offset": "0xa1698e",
+    "en": "SOFT",
+    "zh": "SOFT",
+    "retain_reason": "original credit/debug/separator",
+    "encoded": "534f4654",
+    "refs": [
+      "retained"
+    ]
+  },
+  {
+    "offset": "0xa16994",
+    "en": "--- Credits ---",
+    "zh": "—— 制作人员 ——",
+    "retain_reason": "",
+    "encoded": "80028002208060803c8023808a2080028002",
+    "refs": [
+      "0x110b0"
+    ]
+  },
+  {
+    "offset": "0xa169a4",
+    "en": "GAME DESIGN:",
+    "zh": "游戏设计：",
+    "retain_reason": "",
+    "encoded": "815c80fc81e781e48256",
+    "refs": [
+      "0x110b8"
+    ]
+  },
+  {
+    "offset": "0xa169b4",
+    "en": "Mahou Shoujo * Magical Moestar",
+    "zh": "Mahou Shoujo * Magical Moestar",
+    "retain_reason": "original credit/debug/separator",
+    "encoded": "4d61686f752053686f756a6f202a204d61676963616c204d6f6573746172",
+    "refs": [
+      "retained"
+    ]
+  },
+  {
+    "offset": "0xa169d4",
+    "en": "one60hp",
+    "zh": "one60hp",
+    "retain_reason": "original credit/debug/separator",
+    "encoded": "6f6e6536306870",
+    "refs": [
+      "retained"
+    ]
+  },
+  {
+    "offset": "0xa169dc",
+    "en": "PROGRAMMING:",
+    "zh": "程序：",
+    "retain_reason": "",
+    "encoded": "819b80da8256",
+    "refs": [
+      "0x110d0"
+    ]
+  },
+  {
+    "offset": "0xa169ec",
+    "en": "GRAPHICS:",
+    "zh": "美术：",
+    "retain_reason": "",
+    "encoded": "81bd813a8256",
+    "refs": [
+      "0x110e4"
+    ]
+  },
+  {
+    "offset": "0xa169f8",
+    "en": "MUSIC:",
+    "zh": "音乐：",
+    "retain_reason": "",
+    "encoded": "823e80178256",
+    "refs": [
+      "0x110f8"
+    ]
+  },
+  {
+    "offset": "0xa16a00",
+    "en": "LEVEL DESIGN:",
+    "zh": "关卡设计：",
+    "retain_reason": "",
+    "encoded": "804a807381e781e48256",
+    "refs": [
+      "0x1110c"
+    ]
+  },
+  {
+    "offset": "0xa16a10",
+    "en": "Thanks for playing!",
+    "zh": "感谢游玩！",
+    "retain_reason": "",
+    "encoded": "80fa81f1815c81738254",
+    "refs": [
+      "0x11124"
+    ]
+  },
+  {
+    "offset": "0xa16a24",
+    "en": "Attack",
+    "zh": "攻击",
+    "retain_reason": "",
+    "encoded": "81208057",
+    "refs": [
+      "0x11128"
+    ]
+  },
+  {
+    "offset": "0xa16a2c",
+    "en": "Use spirit technique",
+    "zh": "施展灵术",
+    "retain_reason": "",
+    "encoded": "812980ce8161813a",
+    "refs": [
+      "0x1112c"
+    ]
+  },
+  {
+    "offset": "0xa16a44",
+    "en": "Defend",
+    "zh": "防御",
+    "retain_reason": "",
+    "encoded": "822e80e6",
+    "refs": [
+      "0x11130"
+    ]
+  },
+  {
+    "offset": "0xa16a4c",
+    "en": "Pass",
+    "zh": "待机",
+    "retain_reason": "",
+    "encoded": "80e3813b",
+    "refs": [
+      "0x11134"
+    ]
+  },
+  {
+    "offset": "0xa16a54",
+    "en": "Escape",
+    "zh": "逃跑",
+    "retain_reason": "",
+    "encoded": "820f81fc",
+    "refs": [
+      "0x11138"
+    ]
+  },
+  {
+    "offset": "0xa16a5c",
+    "en": "Prevents poison",
+    "zh": "免疫中毒",
+    "retain_reason": "",
+    "encoded": "8048817c8011814d",
+    "refs": [
+      "0x1113c"
+    ]
+  },
+  {
+    "offset": "0xa16a6c",
+    "en": "Regenerates Qi during battle",
+    "zh": "战斗中恢复真气",
+    "retain_reason": "",
+    "encoded": "81038127801180f280a581878150",
+    "refs": [
+      "0x11140"
+    ]
+  },
+  {
+    "offset": "0xa16a8c",
+    "en": "Gives an extra turn in battle",
+    "zh": "战斗中增加一次行动",
+    "retain_reason": "",
+    "encoded": "81038127801180a280698008814781d9806b",
+    "refs": [
+      "0x11144"
+    ]
+  },
+  {
+    "offset": "0xa16aac",
+    "en": "Prevents all negative status conditions",
+    "zh": "免疫所有负面状态",
+    "retain_reason": "",
+    "encoded": "8048817c8104813681f2823c816e80eb",
+    "refs": [
+      "0x11148"
+    ]
+  },
+  {
+    "offset": "0xa16ad4",
+    "en": "Keeps wearer's Qi completely filled during battle",
+    "zh": "战斗中真气始终充盈",
+    "retain_reason": "",
+    "encoded": "8103812780118187815080b581b380458182",
+    "refs": [
+      "0x1114c"
+    ]
+  },
+  {
+    "offset": "0xa16b08",
+    "en": "Poison",
+    "zh": "中毒",
+    "retain_reason": "",
+    "encoded": "8011814d",
+    "refs": [
+      "0x11150"
+    ]
+  },
+  {
+    "offset": "0xa16b10",
+    "en": "Extra Poison",
+    "zh": "剧毒",
+    "retain_reason": "",
+    "encoded": "8065814d",
+    "refs": [
+      "0x11154"
+    ]
+  },
+  {
+    "offset": "0xa16b20",
+    "en": "Weakness",
+    "zh": "虚弱",
+    "retain_reason": "",
+    "encoded": "81d080df",
+    "refs": [
+      "0x1115c"
+    ]
+  },
+  {
+    "offset": "0xa16b2c",
+    "en": "Barrier",
+    "zh": "屏障",
+    "retain_reason": "",
+    "encoded": "80cd8234",
+    "refs": [
+      "0x11160"
+    ]
+  },
+  {
+    "offset": "0xa16b34",
+    "en": "Regen",
+    "zh": "再生",
+    "retain_reason": "",
+    "encoded": "804d8176",
+    "refs": [
+      "0x11164"
+    ]
+  },
+  {
+    "offset": "0xa16b3c",
+    "en": "Fast",
+    "zh": "迅捷",
+    "retain_reason": "",
+    "encoded": "82068118",
+    "refs": [
+      "0x11168"
+    ]
+  },
+  {
+    "offset": "0xa16b44",
+    "en": "Inviso",
+    "zh": "隐身",
+    "retain_reason": "",
+    "encoded": "82338201",
+    "refs": [
+      "0x1116c"
+    ]
+  },
+  {
+    "offset": "0xa16b4c",
+    "en": "Infernal",
+    "zh": "炎",
+    "retain_reason": "",
+    "encoded": "8162",
+    "refs": [
+      "0x11170"
+    ]
+  },
+  {
+    "offset": "0xa16b58",
+    "en": "Frigid",
+    "zh": "冰",
+    "retain_reason": "",
+    "encoded": "804f",
+    "refs": [
+      "0x11174"
+    ]
+  },
+  {
+    "offset": "0xa16b60",
+    "en": "Heavenly",
+    "zh": "圣",
+    "retain_reason": "",
+    "encoded": "8098",
+    "refs": [
+      "0x11178"
+    ]
+  },
+  {
+    "offset": "0xa16b6c",
+    "en": "Baleful",
+    "zh": "煞",
+    "retain_reason": "",
+    "encoded": "816a",
+    "refs": [
+      "0x1117c"
+    ]
+  },
+  {
+    "offset": "0xa16b74",
+    "en": "No weapon",
+    "zh": "未装备武器",
+    "retain_reason": "",
+    "encoded": "813881dd80a4814a8092",
+    "refs": [
+      "0xbab8"
+    ]
+  },
+  {
+    "offset": "0xa16b80",
+    "en": "Damage: ",
+    "zh": "伤害：",
+    "retain_reason": "",
+    "encoded": "803480c28256",
+    "refs": [
+      "0xbac0"
+    ]
+  },
+  {
+    "offset": "0xa16b8c",
+    "en": " (Acc: ",
+    "zh": " (命中：",
+    "retain_reason": "",
+    "encoded": "2028808c80118256",
+    "refs": [
+      "0xbac4"
+    ]
+  },
+  {
+    "offset": "0xa16b98",
+    "en": "Damage type: ",
+    "zh": "伤害属性：",
+    "retain_reason": "",
+    "encoded": "803480c280cf80ee8256",
+    "refs": [
+      "0xbad8"
+    ]
+  },
+  {
+    "offset": "0xa16ba8",
+    "en": "Inflicts: ",
+    "zh": "附加状态：",
+    "retain_reason": "",
+    "encoded": "822f8069816e80eb8256",
+    "refs": [
+      "0xbacc"
+    ]
+  },
+  {
+    "offset": "0xa16bb4",
+    "en": "Defense: ",
+    "zh": "防御：",
+    "retain_reason": "",
+    "encoded": "822e80e68256",
+    "refs": [
+      "0xbae0"
+    ]
+  },
+  {
+    "offset": "0xa16bc0",
+    "en": " (Block chance: ",
+    "zh": " (格挡几率：",
+    "retain_reason": "",
+    "encoded": "202881448116805581728256",
+    "refs": [
+      "0xbae4"
+    ]
+  },
+  {
+    "offset": "0xa16bd4",
+    "en": "Protects against: ",
+    "zh": "抗性：",
+    "retain_reason": "",
+    "encoded": "810c80ee8256",
+    "refs": [
+      "0xbae8"
+    ]
+  },
+  {
+    "offset": "0xa16be8",
+    "en": "Vulnerable to: ",
+    "zh": "弱点：",
+    "retain_reason": "",
+    "encoded": "80df81638256",
+    "refs": [
+      "0xbaec"
+    ]
+  },
+  {
+    "offset": "0xa16bf8",
+    "en": " (+",
+    "zh": "(+",
+    "retain_reason": "",
+    "encoded": "282b",
+    "refs": [
+      "0xbb28",
+      "0xbebc"
+    ]
+  },
+  {
+    "offset": "0xa16bfc",
+    "en": "No spirit crystal",
+    "zh": "未装备灵晶",
+    "retain_reason": "",
+    "encoded": "813881dd80a481618133",
+    "refs": [
+      "0xbefc"
+    ]
+  },
+  {
+    "offset": "0xa16c10",
+    "en": "Str: ",
+    "zh": "力量:",
+    "retain_reason": "",
+    "encoded": "8066821e3a",
+    "refs": [
+      "0xbec8"
+    ]
+  },
+  {
+    "offset": "0xa16c18",
+    "en": "Def: ",
+    "zh": "防御:",
+    "retain_reason": "",
+    "encoded": "822e80e63a",
+    "refs": [
+      "0xbecc"
+    ]
+  },
+  {
+    "offset": "0xa16c20",
+    "en": "Agi: ",
+    "zh": "敏捷:",
+    "retain_reason": "",
+    "encoded": "812381183a",
+    "refs": [
+      "0xbed0"
+    ]
+  },
+  {
+    "offset": "0xa16c28",
+    "en": "Mag: ",
+    "zh": "灵力:",
+    "retain_reason": "",
+    "encoded": "816180663a",
+    "refs": [
+      "0xbed4"
+    ]
+  },
+  {
+    "offset": "0xa16c30",
+    "en": " (Qi cost: ",
+    "zh": " (真气消耗：",
+    "retain_reason": "",
+    "encoded": "202881878150815981c18256",
+    "refs": [
+      "0xc000"
+    ]
+  },
+  {
+    "offset": "0xa16c3c",
+    "en": "Unoccupied save slot",
+    "zh": "空存档位",
+    "retain_reason": "",
+    "encoded": "819f80b881458037",
+    "refs": [
+      "0xc130",
+      "0xd800"
+    ]
+  },
+  {
+    "offset": "0xa16c54",
+    "en": "Equip weapons / armour",
+    "zh": "装备武器与护甲",
+    "retain_reason": "",
+    "encoded": "81dd80a4814a8092800d810e8178",
+    "refs": [
+      "0xd4f4",
+      "0x111dc"
+    ]
+  },
+  {
+    "offset": "0xa16c74",
+    "en": "Equip spirit crystals",
+    "zh": "装备灵晶",
+    "retain_reason": "",
+    "encoded": "81dd80a481618133",
+    "refs": [
+      "0x111e0"
+    ]
+  },
+  {
+    "offset": "0xa16c8c",
+    "en": "Use spirit techniques",
+    "zh": "施展灵术",
+    "retain_reason": "",
+    "encoded": "812980ce8161813a",
+    "refs": [
+      "0x111e4"
+    ]
+  },
+  {
+    "offset": "0xa16ca4",
+    "en": "Save your progress",
+    "zh": "保存进度",
+    "retain_reason": "",
+    "encoded": "804080b8820b80dc",
+    "refs": [
+      "0x111e8"
+    ]
+  },
+  {
+    "offset": "0xa16cb8",
+    "en": "Configuration",
+    "zh": "设置",
+    "retain_reason": "",
+    "encoded": "81e781bc",
+    "refs": [
+      "0x111ec"
+    ]
+  },
+  {
+    "offset": "0xa16cc8",
+    "en": "No armour",
+    "zh": "未装备护甲",
+    "retain_reason": "",
+    "encoded": "813881dd80a4810e8178",
+    "refs": [
+      "0x111d0"
+    ]
+  },
+  {
+    "offset": "0xa16cd4",
+    "en": "No helmet",
+    "zh": "未装备头盔",
+    "retain_reason": "",
+    "encoded": "813881dd80a480ac8184",
+    "refs": [
+      "0x111d4"
+    ]
+  },
+  {
+    "offset": "0xa16ce0",
+    "en": "No accessory",
+    "zh": "未装备饰品",
+    "retain_reason": "",
+    "encoded": "813881dd80a48245808e",
+    "refs": [
+      "0x111d8"
+    ]
+  },
+  {
+    "offset": "0x27017",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶",
+    "encoded": "81618133",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27037",
+    "en": "Starfire",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "星火",
+    "encoded": "8130815f",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27057",
+    "en": "Holy Helm",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "圣光头盔",
+    "encoded": "8098804780ac8184",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27077",
+    "en": "Multi-target heavenly damage.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "对全体敌人造成圣属性伤害。",
+    "encoded": "80c58049803a81228023821580fd809880cf80ee803480c28005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2711b",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶",
+    "encoded": "81618133",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2713b",
+    "en": "Purification",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "净化",
+    "encoded": "8051806e",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2715b",
+    "en": "Cat`s Claw",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "猫爪",
+    "encoded": "8171816b",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2717b",
+    "en": "Single-target negative status effect removal.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "解除单个目标的负面状态。",
+    "encoded": "81e282318072801081858142818181f2823c816e80eb8005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2721f",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶",
+    "encoded": "81618133",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2723f",
+    "en": "Toxic Cloud",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "毒云",
+    "encoded": "814d801e",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2725f",
+    "en": "Ring of Poison Resistance",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "抗毒戒指",
+    "encoded": "810c814d81018114",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2727f",
+    "en": "Multi-target damage and inflicts poison.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "对全体敌人造成伤害并施加中毒。",
+    "encoded": "80c58049803a81228023821580fd803480c280d9812980698011814d8005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27323",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶",
+    "encoded": "81618133",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27343",
+    "en": "Barrier",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "屏障",
+    "encoded": "80cd8234",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27363",
+    "en": "Dark Helm",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "暗黑头盔",
+    "encoded": "8134825280ac8184",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27383",
+    "en": "Single-target casts protective barrier.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "为单个目标施加防护屏障。",
+    "encoded": "8013807280108185814281298069822e810e80cd82348005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27427",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶",
+    "encoded": "81618133",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27447",
+    "en": "Frost Blast",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "冰霜冲击",
+    "encoded": "804f823980508057",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27467",
+    "en": "Wristband of Qi",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "真气腕带",
+    "encoded": "8187815081c780d6",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27487",
+    "en": "Multi-target frigid damage",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "对全体敌人造成冰属性伤害。",
+    "encoded": "80c58049803a81228023821580fd804f80cf80ee803480c28005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2752b",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶",
+    "encoded": "81618133",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2754b",
+    "en": "Regeneration",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "再生",
+    "encoded": "804d8176",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2756b",
+    "en": "Serpent Striker",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "灵蛇之击",
+    "encoded": "816181d380158057",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2758b",
+    "en": "Gives a single target regenerating health",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "使单个目标的生命持续恢复。",
+    "encoded": "803e807280108185814281818176808c811381b880f280a58005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2762f",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶",
+    "encoded": "81618133",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2764f",
+    "en": "Icicle Lance",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "冰枪",
+    "encoded": "804f8141",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2766f",
+    "en": "Frost Mail",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "冰霜铠甲",
+    "encoded": "804f823982228178",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2768f",
+    "en": "Single-target frigid damage. Inflicts paralysis.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "冰属性单体伤害，并施加麻痹。",
+    "encoded": "804f80cf80ee8072803a803480c2825580d9812980698251817e8005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27733",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶",
+    "encoded": "81618133",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27753",
+    "en": "Lifegather",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "聚命",
+    "encoded": "81c3808c",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27773",
+    "en": "Speed Boots",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "疾速靴",
+    "encoded": "817d8214823d",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27793",
+    "en": "Single-target healing. Can revive fallen allies.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "恢复单个目标生命，可复活队友。",
+    "encoded": "80f280a580728010818581428176808c8255807f80a58158822d80788005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27837",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶",
+    "encoded": "81618133",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27857",
+    "en": "Immolate",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "焚烧",
+    "encoded": "81678166",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27877",
+    "en": "Fire Mail",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "烈焰铠甲",
+    "encoded": "8165816882228178",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27897",
+    "en": "Single-target infernal damage.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "对单个目标造成炎属性伤害。",
+    "encoded": "80c58072801081858142821580fd816280cf80ee803480c28005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2793b",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶",
+    "encoded": "81618133",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2795b",
+    "en": "Mindblast",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "心灵冲击",
+    "encoded": "80e7816180508057",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2797b",
+    "en": "Helm of Dodging",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "闪避头盔",
+    "encoded": "822a821880ac8184",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2799b",
+    "en": "Single-target damage and inflicts weakness.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "单体伤害，并施加虚弱。",
+    "encoded": "8072803a803480c2825580d98129806981d080df8005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27a3f",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶",
+    "encoded": "81618133",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27a5f",
+    "en": "Protection",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "守护",
+    "encoded": "80bb810e",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27a7f",
+    "en": "Chainmail",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "锁子甲",
+    "encoded": "822480b68178",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27a9f",
+    "en": "Multi-target protective barrier",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "为全体队友施加防护屏障。",
+    "encoded": "80138049803a822d807881298069822e810e80cd82348005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27b43",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶",
+    "encoded": "81618133",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27b63",
+    "en": "Invisibility Field",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "隐身领域",
+    "encoded": "823382018241809f",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27b83",
+    "en": "Skullsplitter",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "裂颅者",
+    "encoded": "81dc824081bf",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27ba3",
+    "en": "Multi-target makes allies harder to hit.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "降低全体队友被命中的概率。",
+    "encoded": "823080388049803a822d807881da808c80118181814681728005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27c47",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶",
+    "encoded": "81618133",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27c67",
+    "en": "Hornet Sting",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "蜂刺",
+    "encoded": "81d58061",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27c87",
+    "en": "Fiend Mail",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "魔灵铠甲",
+    "encoded": "824b816182228178",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27ca7",
+    "en": "Single-target high damage and inflicts serious poison.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "高额单体伤害，并施加剧毒。",
+    "encoded": "824982428072803a803480c2825580d9812980698065814d8005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27d4b",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶",
+    "encoded": "81618133",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27d6b",
+    "en": "Fast",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "加速",
+    "encoded": "80698214",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27d8b",
+    "en": "Ruby Helm",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "红宝石头盔",
+    "encoded": "81af80bf818c80ac8184",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27dab",
+    "en": "Speeds up single target",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "使单个目标加速。",
+    "encoded": "803e8072801081858142806982148005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27e4f",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶",
+    "encoded": "81618133",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27e6f",
+    "en": "Blessing",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "祝福",
+    "encoded": "81958197",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27e8f",
+    "en": "Amulet of Immutability",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "恒定护符",
+    "encoded": "80f080be810e81a5",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27eaf",
+    "en": "Multi-target healing and status recovery.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "全体治疗，并解除负面状态。",
+    "encoded": "8049803a8155817b825580d981e2823181f2823c816e80eb8005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27f53",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶",
+    "encoded": "81618133",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27f73",
+    "en": "Holy Bolt",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "圣光箭",
+    "encoded": "8098804781aa",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27f93",
+    "en": "Earthshatterer",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "碎地者",
+    "encoded": "8190809a81bf",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x27fb3",
+    "en": "Powerful single-target heavenly damage.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "强力圣属性单体伤害。",
+    "encoded": "80e08066809880cf80ee8072803a803480c28005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x28057",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶",
+    "encoded": "81618133",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x28077",
+    "en": "Frog`s Kiss",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "蛙吻",
+    "encoded": "81d48087",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x28097",
+    "en": "Frog`s Helm",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "青蛙头盔",
+    "encoded": "823a81d480ac8184",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x280b7",
+    "en": "Single target status recovery and revival.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "解除单体负面状态并复活。",
+    "encoded": "81e282318072803a81f2823c816e80eb80d980a581588005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2815b",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶",
+    "encoded": "81618133",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2817b",
+    "en": "Wrath",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "狂怒",
+    "encoded": "816f80ed",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2819b",
+    "en": "Pure Mail",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "纯净铠甲",
+    "encoded": "81b0805182228178",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x281bb",
+    "en": "Multi-target baleful damage. Inflicts weakness.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "煞属性群体伤害，并施加虚弱。",
+    "encoded": "816a80cf80ee81be803a803480c2825580d98129806981d080df8005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2825f",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶",
+    "encoded": "81618133",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2827f",
+    "en": "Flay",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "剥魂",
+    "encoded": "8064824a",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2829f",
+    "en": "Choker of Infinite Qi",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "无尽真气项圈",
+    "encoded": "812c80cc81878150823f8097",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x282bf",
+    "en": "Multi-target infernal damage.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "对全体敌人造成炎属性伤害。",
+    "encoded": "80c58049803a81228023821580fd816280cf80ee803480c28005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x28363",
+    "en": "Spirit Crystal",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "灵晶",
+    "encoded": "81618133",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x28383",
+    "en": "Black Chains",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "黑色锁链",
+    "encoded": "825281ca82248223",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x283a3",
+    "en": "Annihilation",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "湮灭",
+    "encoded": "815d8160",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x283c3",
+    "en": "Extremely powerful single-target baleful damage.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "极强的煞属性单体伤害。",
+    "encoded": "813f80e08181816a80cf80ee8072803a803480c28005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x28467",
+    "en": "Qilin Star",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "麒麟·星",
+    "encoded": "824f825080018130",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x28487",
+    "en": "Gift of Life",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "生命恩赐",
+    "encoded": "8176808c80f481f4",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x284a7",
+    "en": "Bonesmasher",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "碎骨者",
+    "encoded": "8190824881bf",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x284c7",
+    "en": "Single-target healing. Can revive fallen allies.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "恢复单个目标生命，可复活队友。",
+    "encoded": "80f280a580728010818581428176808c8255807f80a58158822d80788005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2856b",
+    "en": "Dragonfly Thunderbolt",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "蜻蜓·雷霆",
+    "encoded": "81d781d6800182368238",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2858b",
+    "en": "Gate of Inferno",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "炼狱之门",
+    "encoded": "8164817080158229",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x285ab",
+    "en": "Skysplitter",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "裂天者",
+    "encoded": "81dc80a981bf",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x285cb",
+    "en": "Single-target infernal damage.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "对单个目标造成炎属性伤害。",
+    "encoded": "80c58072801081858142821580fd816280cf80ee803480c28005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2866f",
+    "en": "Dragonfly Sky",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "蜻蜓·苍穹",
+    "encoded": "81d781d6800181cb819e",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2868f",
+    "en": "Hail Barrage",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "冰雹齐射",
+    "encoded": "804f8237825380c7",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x286af",
+    "en": "Fiend-Devil Glaive",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "妖魔长刀",
+    "encoded": "80b2824b82288058",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x286cf",
+    "en": "Multi-target frigid damage. Inflicts weak",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "冰属性群体伤害，并施加虚弱。",
+    "encoded": "804f80cf80ee81be803a803480c2825580d98129806981d080df8005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x28773",
+    "en": "Dragonfly Patriarch",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "蜻蜓族长",
+    "encoded": "81d781d6812b8228",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x28793",
+    "en": "Judgment",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "审判",
+    "encoded": "80c1805c",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x287b3",
+    "en": "Thousand-Tipped Spear",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "千锋长矛",
+    "encoded": "8070822582288189",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x287d3",
+    "en": "Single-target heavenly damage.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "对单个目标造成圣属性伤害。",
+    "encoded": "80c58072801081858142821580fd809880cf80ee803480c28005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x28877",
+    "en": "Dharmapala Raven",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "护法·鸦",
+    "encoded": "810e81568001824d",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x28897",
+    "en": "Harvest",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "丰收",
+    "encoded": "8012811f",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x288b7",
+    "en": "Styx Scythe",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "冥河镰刀",
+    "encoded": "804e815482278058",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x288d7",
+    "en": "\"Multi-target healing, fast and status recovery.\"",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "全体治疗、加速并解除负面状态。",
+    "encoded": "8049803a8155817b80048069821480d981e2823181f2823c816e80eb8005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2897b",
+    "en": "Righteous Emperor",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "正道帝君",
+    "encoded": "8148821680d58083",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x2899b",
+    "en": "Pestilence",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "瘟疫",
+    "encoded": "817f817c",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x289bb",
+    "en": "Starmetal Daggers",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "星铁双匕",
+    "encoded": "813082218079806d",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x289db",
+    "en": "Multi-target baleful damage. Inflicts serious poison.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "煞属性群体伤害，并施加剧毒。",
+    "encoded": "816a80cf80ee81be803a803480c2825580d9812980698065814d8005",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x28a7f",
+    "en": "Qilin Hawk",
+    "field": "enemy",
+    "max_bytes": 31,
+    "zh": "麒麟·鹰",
+    "encoded": "824f82508001824e",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x28a9f",
+    "en": "Dark Dart",
+    "field": "technique",
+    "max_bytes": 31,
+    "zh": "暗影飞矢",
+    "encoded": "813480e28244818a",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x28abf",
+    "en": "Divine Swordbreaker",
+    "field": "equipment",
+    "max_bytes": 31,
+    "zh": "神圣破剑者",
+    "encoded": "81968098818e806381bf",
+    "refs": [
+      "inline"
+    ]
+  },
+  {
+    "offset": "0x28adf",
+    "en": "Single-target baleful damage.",
+    "field": "description",
+    "max_bytes": 127,
+    "zh": "对单个目标造成煞属性伤害。",
+    "encoded": "80c58072801081858142821580fd816a80cf80ee803480c28005",
+    "refs": [
+      "inline"
+    ]
+  }
+]

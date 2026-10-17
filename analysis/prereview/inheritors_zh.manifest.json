@@ -1,0 +1,28 @@
+{
+  "game": "INHERITORS",
+  "scope": "243条文本和图形汉化；6条署名等保留。12px对话说明，8px紧凑界面。mGBA正常开场、装备、设置、存档写入与独立战斗夹具；未全程通关或真机验证。",
+  "original": {
+    "game": "INHERITORS",
+    "original": "/Users/drafff/Desktop/gbaHomeBrew/downloads/roms/Inheritors-of-the-Oubliette-v1.2.gba",
+    "bytes": 10592124,
+    "sha256": "1d8b4617be75a8b7b6c5c2975ef0213ed37da669c460d967d4259b6a25d22b2e",
+    "header_title": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "ascii_candidates": 56446
+  },
+  "rom": "/Users/drafff/Documents/ChatGPT/汉化/INHERITORS/output/inheritors_zh.gba",
+  "rom_bytes": 10620358,
+  "sha256": "33a35095e159721710d6a4da375f87fe80fd6ba00cc551899821ee381d884f77",
+  "bps_sha256": "2829b63df369962ab3afe17417c9e076c34a15171d5af52d84a7141a96db41cc",
+  "bps_roundtrip": "pass",
+  "runtime": {
+    "sha256": "33a35095e159721710d6a4da375f87fe80fd6ba00cc551899821ee381d884f77",
+    "records": 249,
+    "font_widths_checked": true,
+    "glyph_pixel_checks": 1192,
+    "dialogue_layout_checked": true,
+    "save_ui_written": true,
+    "battle_fixture": "original force_fixed_encounter(0), attack and spirit-technique menus; RAM-only fixture",
+    "max_draw_instructions": 109563,
+    "limits": "mGBA smoke test plus RAM-only renderer checks; not a complete playthrough or hardware test."
+  }
+}

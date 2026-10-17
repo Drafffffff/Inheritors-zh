@@ -1,0 +1,848 @@
+[
+  {
+    "offset": "0xa13148",
+    "en": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+    "zh": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+    "retain_reason": "original credit/debug/separator"
+  },
+  {
+    "offset": "0xa1526c",
+    "en": "The quick brown fox.",
+    "zh": "The quick brown fox.",
+    "retain_reason": "original credit/debug/separator"
+  },
+  {
+    "offset": "0xa15284",
+    "en": "Surprise attack!",
+    "zh": "突袭！",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15298",
+    "en": " (Qi: ",
+    "zh": " (真气：",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa152a4",
+    "en": "Insufficient Qi",
+    "zh": "真气不足",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa152b4",
+    "en": "Defending",
+    "zh": "防御中",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa152c0",
+    "en": "Passing",
+    "zh": "待机",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa152c8",
+    "en": "There is no escape",
+    "zh": "无法逃脱",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa152dc",
+    "en": "Escaped!",
+    "zh": "逃脱成功！",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa152e8",
+    "en": "Failed to escape",
+    "zh": "逃脱失败",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa152fc",
+    "en": "Paralysis",
+    "zh": "麻痹",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15308",
+    "en": "Your inheritor's quest has come to an end.",
+    "zh": "传承者的旅途就此结束。",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15334",
+    "en": "You were victorious in combat!",
+    "zh": "战斗胜利！",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15354",
+    "en": "You were victorious in combat! You have obtained the following:",
+    "zh": "战斗胜利！获得以下战利品：",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15394",
+    "en": "Is this...?",
+    "zh": "这是……？",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa153a0",
+    "en": "Correct, this is what we came here for. The inert form of these spirit creatures; spirit crystals.",
+    "zh": "没错，这就是我们要找的。这些灵体沉寂后，会化为灵晶。",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15404",
+    "en": "Fantastic; we can use these to gain some of the powers of these spirit creatures. They will also be invaluable treasures to bring back to the clan.",
+    "zh": "太好了！它们能让我们掌握灵体的部分力量，带回族中更是价值连城的宝物。",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15498",
+    "en": "(Press START to open up the menu and select the second option to equip your party with spirit crystals. Spirit crystals improve your stats and give you access to more techniques.)",
+    "zh": "按START打开菜单，选择第二项装备灵晶。灵晶可提升属性，并让你习得更多灵术。",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa1554c",
+    "en": "That creature seems to have dropped something...",
+    "zh": "那只生物似乎掉了什么……",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15580",
+    "en": "Yes, this is a fantastic find. The latent Qi in this place has coalesced into godrelics. Powerful equipment that will help us survive in here.",
+    "zh": "真是重大发现！这里积聚的真气凝成了神遗物。这些强力装备能助我们在此生存。",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15610",
+    "en": "Indeed, this is a fortunate discovery. We should equip it at once.",
+    "zh": "的确是意外之喜。我们赶紧装备上吧。",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15654",
+    "en": "(Press START to open up the menu and select the first option to equip your party with godrelics. Godrelics can improve your combat potential, reduce the damage you take and more.)",
+    "zh": "按START打开菜单，选择第一项装备神遗物。神遗物可提升战力、减少所受伤害等。",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15708",
+    "en": "A locked door...",
+    "zh": "锁着的门……",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa1571c",
+    "en": "We should look around and see if there is something that unlocks this. The antecedents were very fond of their elaborate mechanical contraptions and devices.",
+    "zh": "到附近找找开门的办法吧。先民们非常喜爱精巧繁复的机关装置。",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa157bc",
+    "en": "Looks like another locked door. We should search for another switch or button, see if something opens this.",
+    "zh": "又是一扇锁着的门。找找其他开关或按钮，看看能否打开。",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15828",
+    "en": "Locked again...",
+    "zh": "又锁了……",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15838",
+    "en": "This is starting to get old. Did you see anything on the wall that we might have missed on the way here?",
+    "zh": "真是没完没了。来时路上的墙壁，有没有什么被我们漏看的东西？",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa158a4",
+    "en": "I don't think so, but we should certainly look around.",
+    "zh": "应该没有，不过还是仔细找找吧。",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa158dc",
+    "en": "The mysterious plaque evades your attempts at comprehension.",
+    "zh": "你无法理解这块神秘石碑上的文字。",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa1591c",
+    "en": "Stepping on the tile has healed and reenergised you.",
+    "zh": "踏上地砖后，你的生命与真气都恢复了。",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15954",
+    "en": "\"The portal worked. Our Qilin clan may yet realise some good fortune from this after all.\"",
+    "zh": "「传送门生效了。看来我麒麟族终究有望在此获得一番机缘。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa159b0",
+    "en": "\"So this is the ancient training ground... I can already sense the presence of spirit entities.\"",
+    "zh": "「这就是上古试炼之地……我已经感应到灵体的存在了。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15a14",
+    "en": "\"Be careful, clan sister Star. While the spirit crystals have the potential to bring us great power, the spirit entities are not to be underestimated.\"",
+    "zh": "「星师妹，务必小心。灵晶虽能给我们强大力量，但这些灵体也绝不能轻视。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15aac",
+    "en": "\"I know that, clan brother Hawk. With these godrelics the clan patriarch provided us, we should surely be fine.\"",
+    "zh": "「我知道，鹰师兄。有族长赐下的这些神遗物，我们一定能安然无恙。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15b20",
+    "en": "\"These may be almighty relics back in our realm, but this is an ancient macrocosm. That is why the rewards will be so great. Because the risk is even higher.\"",
+    "zh": "「它们在我们那方天地是至宝，可这里是上古大世界。收益越大，风险便越高。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15bc0",
+    "en": "\"Look, we should just hurry along and see if we can find something good to take back to the clan. The portal only opens once every 10,000 years after all. I don't want to miss anything.\"",
+    "zh": "「快走吧，看看能带什么宝物回族里。传送门万年才开一次，我可不想错过机缘。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15c7c",
+    "en": "\"Halt! You have trespassed upon the sacred training grounds of the great Dragonfly clan! Hand over any treasures you have found and leave at once!\"",
+    "zh": "「站住！你们擅闯了伟大蜻蜓族的神圣试炼之地！交出寻得的宝物，立刻离开！」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15d10",
+    "en": "\"Who the hell are you? I've never heard of this Dragonfly clan before. Our Qilin clan has been using these grounds to train our chosen sons and daughters for hundreds of thousands of years!\"",
+    "zh": "「你谁啊？蜻蜓族？从没听过。我麒麟族在此磨炼族中天骄，已有数十万年！」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15dd0",
+    "en": "\"That you do not show proper respect to the great Dragonfly Thunderbolt is an insult so great that it can only be washed away with the blood of your entire clan!\"",
+    "zh": "「竟敢对我蜻蜓雷霆如此无礼！此等奇耻大辱，唯有用你全族的血才能洗清！」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15e74",
+    "en": "\"Listen, I don't know who you are and I don't care. I'm only going to warn you once. Turn around and leave now or you will regret it.\"",
+    "zh": "「听着，我不管你是谁，也没兴趣知道。我只警告一次：转身离开，否则后果自负。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15efc",
+    "en": "\"Apparently rudeness and overconfidence go hand in hand. Very well, but it is you who will soon regret your rash choice of actions!\"",
+    "zh": "「果然，狂妄之人总是目中无人。很好，马上你就会为自己的鲁莽悔不当初！」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15f84",
+    "en": "\"They are too powerful. I can't go on. Forgive me, Patriarch.\"",
+    "zh": "「他们太强了……我撑不住了。族长，请原谅我。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15fc4",
+    "en": "\"I told you not to mess with us.\"",
+    "zh": "「早就说了，别来招惹我们。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa15fe8",
+    "en": "\"I finally managed to track you down! You will pay for what you did to the young scion of the Dragonfly clan, Dragonfly Thunderbolt!\"",
+    "zh": "「总算找到你们了！你们竟敢伤我蜻蜓族天骄雷霆，今日定要付出代价！」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16070",
+    "en": "\"There's more of you Dragonfly people around? All right, I'll bite. What's your name?\"",
+    "zh": "「蜻蜓族还没完了？行吧，那你叫什么名字？」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa160c8",
+    "en": "\"You would do well to learn the name of Dragonfly Sky, the Holy Daughter of the Dragonfly clan!\"",
+    "zh": "「记住我的名号！我是蜻蜓族圣女，蜻蜓苍穹！」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa1612c",
+    "en": "\"I'm not sure we really need to learn it, though.\"",
+    "zh": "「我倒觉得，没必要记住呢。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16160",
+    "en": "\"How is this possible?\"",
+    "zh": "「怎么可能？」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16178",
+    "en": "\"All we wanted you to do was leave us alone... what was your name again?\"",
+    "zh": "「我们只是想让你别来纠缠……对了，你叫什么来着？」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa161c4",
+    "en": "\"You... you... augh!\"",
+    "zh": "「你……你……啊！」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa161dc",
+    "en": "\"How dare you spill the blood of the younger generation of the Dragonfly clan! This insult you have dealt us is close to unendurable. Now only I, Dragonfly Patriarch, can address this insult to my clan!\"",
+    "zh": "「竟敢杀害我蜻蜓族晚辈！如此大辱，岂能容忍？唯有我蜻蜓族长亲自出手，方能雪耻！」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa162a8",
+    "en": "\"Listen, we have no great emnity with you. Your clan simply needs to do a better job keepings its Chosen in check. We are willing to walk away.\"",
+    "zh": "「我们与你并无深仇大恨。管好你族里的天骄就行。我们愿意就此作罢。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa1633c",
+    "en": "\"The time for words has long passed.\"",
+    "zh": "「如今再说什么，都晚了。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16364",
+    "en": "\"He's in no mood to negotiate. Star, get ready!\"",
+    "zh": "「他根本不想谈。星，准备战斗！」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16398",
+    "en": "\"It's not over. You will not get away with this.\"",
+    "zh": "「还没结束……你们休想逃过报应。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa163cc",
+    "en": "\"I see some intrusive insects have emerged.\"",
+    "zh": "「看来，钻进来了几只恼人的虫子。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa163fc",
+    "en": "\"Oh great. Don't tell me, you're the Dragonfly Matriarch and you're really angry with us for demolishing your clan.\"",
+    "zh": "「真好。别告诉我，你是蜻蜓族的族母，因为我们打垮你全族而气坏了。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16474",
+    "en": "\"I don't have one whit of care for your clan squabbles, but I will take possession of those spirit crystals and spirit items you've been hoarding.\"",
+    "zh": "「我对你们的族群纷争毫无兴趣。不过，你们囤积的灵晶与灵物，我就收下了。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16508",
+    "en": "\"We aren't going to let you do that!\"",
+    "zh": "「我们不会让你得逞！」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16530",
+    "en": "\"Thunder... Sky... I'm sorry...\"",
+    "zh": "「雷霆……苍穹……对不起……」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16554",
+    "en": "\"I see others have come for what is rightfully mine, but only I, Righteous Emperor, have the strength to take it!\"",
+    "zh": "「又有人来抢本属于我的东西。但唯有我正道帝君，才有实力将其据为己有！」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa165c8",
+    "en": "\"Try telling that to the Dragonfly clan.\"",
+    "zh": "「这话不妨去对蜻蜓族说。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa165f4",
+    "en": "\"Laugh it up while you still can. Your adventure and your lives end here.\"",
+    "zh": "「趁现在还能笑，就尽管笑吧。你们的旅途与性命，都将在此终结。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16640",
+    "en": "\"Hawk, watch out!\"",
+    "zh": "「鹰，小心！」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16654",
+    "en": "\"What... how?\"",
+    "zh": "「什么……怎么会？」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16664",
+    "en": "\"We learned how to fight here. Our ancestors stretching back to time memorial trained on these grounds.\"",
+    "zh": "「我们在这里学会了战斗。自远古以来，我们的历代先祖都在此修行。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa166d0",
+    "en": "\"As far as we are concerned, this place is ours. Who are you, and why did you come here?\"",
+    "zh": "「在我们看来，这里本就属于我们。你是谁？为何来到这里？」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa1672c",
+    "en": "\"Ugh...\"",
+    "zh": "「呃……」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16738",
+    "en": "\"He's dead.\"",
+    "zh": "「他死了。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16748",
+    "en": "\"I'm glad that's over. Clan brother Hawk, grab everything that you can and let's go.\"",
+    "zh": "「终于结束了。鹰师兄，把能拿的都拿上，我们走吧。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa167a0",
+    "en": "\"The Qilin will never be vanquished.\"",
+    "zh": "「麒麟族永不败亡。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa167c8",
+    "en": "\"Never.\"",
+    "zh": "「永不。」",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa167d4",
+    "en": "Life: ",
+    "zh": "生命:",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa167e4",
+    "en": "Qi: ",
+    "zh": "真气:",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa167ec",
+    "en": "Spirit crystals: ",
+    "zh": "灵晶：",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16800",
+    "en": "Time played: ",
+    "zh": "游玩时间：",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16814",
+    "en": "With the rival clans expelled from the Oubliette,",
+    "zh": "敌对族群被逐出遗落之境，",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16848",
+    "en": "the Qilin clan's legacy has been secured.",
+    "zh": "麒麟族的传承得以延续。",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16874",
+    "en": "The spirit crystals and godrelics retrieved by",
+    "zh": "麒麟族的鹰与星带回的",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa168a4",
+    "en": "Qilin Hawk and Qilin Star will be used to",
+    "zh": "灵晶和神遗物，",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa168d0",
+    "en": "support the younger generation for centuries",
+    "zh": "将在未来数百年间，",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16900",
+    "en": "to come, further cementing the Qilin clan's",
+    "zh": "助力族中后辈的修行，",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa1692c",
+    "en": "position in the immortal world.",
+    "zh": "稳固麒麟族在仙界的地位。",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa1694c",
+    "en": "INHERITORS of the OUBLIETTE",
+    "zh": "遗落之境的传承者",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16968",
+    "en": "----------       ---------",
+    "zh": "----------       ---------",
+    "retain_reason": "original credit/debug/separator"
+  },
+  {
+    "offset": "0xa1698e",
+    "en": "SOFT",
+    "zh": "SOFT",
+    "retain_reason": "original credit/debug/separator"
+  },
+  {
+    "offset": "0xa16994",
+    "en": "--- Credits ---",
+    "zh": "—— 制作人员 ——",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa169a4",
+    "en": "GAME DESIGN:",
+    "zh": "游戏设计：",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa169b4",
+    "en": "Mahou Shoujo * Magical Moestar",
+    "zh": "Mahou Shoujo * Magical Moestar",
+    "retain_reason": "original credit/debug/separator"
+  },
+  {
+    "offset": "0xa169d4",
+    "en": "one60hp",
+    "zh": "one60hp",
+    "retain_reason": "original credit/debug/separator"
+  },
+  {
+    "offset": "0xa169dc",
+    "en": "PROGRAMMING:",
+    "zh": "程序：",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa169ec",
+    "en": "GRAPHICS:",
+    "zh": "美术：",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa169f8",
+    "en": "MUSIC:",
+    "zh": "音乐：",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16a00",
+    "en": "LEVEL DESIGN:",
+    "zh": "关卡设计：",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16a10",
+    "en": "Thanks for playing!",
+    "zh": "感谢游玩！",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16a24",
+    "en": "Attack",
+    "zh": "攻击",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16a2c",
+    "en": "Use spirit technique",
+    "zh": "施展灵术",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16a44",
+    "en": "Defend",
+    "zh": "防御",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16a4c",
+    "en": "Pass",
+    "zh": "待机",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16a54",
+    "en": "Escape",
+    "zh": "逃跑",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16a5c",
+    "en": "Prevents poison",
+    "zh": "免疫中毒",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16a6c",
+    "en": "Regenerates Qi during battle",
+    "zh": "战斗中恢复真气",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16a8c",
+    "en": "Gives an extra turn in battle",
+    "zh": "战斗中增加一次行动",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16aac",
+    "en": "Prevents all negative status conditions",
+    "zh": "免疫所有负面状态",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16ad4",
+    "en": "Keeps wearer's Qi completely filled during battle",
+    "zh": "战斗中真气始终充盈",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16b08",
+    "en": "Poison",
+    "zh": "中毒",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16b10",
+    "en": "Extra Poison",
+    "zh": "剧毒",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16b20",
+    "en": "Weakness",
+    "zh": "虚弱",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16b2c",
+    "en": "Barrier",
+    "zh": "屏障",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16b34",
+    "en": "Regen",
+    "zh": "再生",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16b3c",
+    "en": "Fast",
+    "zh": "迅捷",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16b44",
+    "en": "Inviso",
+    "zh": "隐身",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16b4c",
+    "en": "Infernal",
+    "zh": "炎",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16b58",
+    "en": "Frigid",
+    "zh": "冰",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16b60",
+    "en": "Heavenly",
+    "zh": "圣",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16b6c",
+    "en": "Baleful",
+    "zh": "煞",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16b74",
+    "en": "No weapon",
+    "zh": "未装备武器",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16b80",
+    "en": "Damage: ",
+    "zh": "伤害：",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16b8c",
+    "en": " (Acc: ",
+    "zh": " (命中：",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16b98",
+    "en": "Damage type: ",
+    "zh": "伤害属性：",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16ba8",
+    "en": "Inflicts: ",
+    "zh": "附加状态：",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16bb4",
+    "en": "Defense: ",
+    "zh": "防御：",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16bc0",
+    "en": " (Block chance: ",
+    "zh": " (格挡几率：",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16bd4",
+    "en": "Protects against: ",
+    "zh": "抗性：",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16be8",
+    "en": "Vulnerable to: ",
+    "zh": "弱点：",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16bf8",
+    "en": " (+",
+    "zh": "(+",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16bfc",
+    "en": "No spirit crystal",
+    "zh": "未装备灵晶",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16c10",
+    "en": "Str: ",
+    "zh": "力量:",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16c18",
+    "en": "Def: ",
+    "zh": "防御:",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16c20",
+    "en": "Agi: ",
+    "zh": "敏捷:",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16c28",
+    "en": "Mag: ",
+    "zh": "灵力:",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16c30",
+    "en": " (Qi cost: ",
+    "zh": " (真气消耗：",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16c3c",
+    "en": "Unoccupied save slot",
+    "zh": "空存档位",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16c54",
+    "en": "Equip weapons / armour",
+    "zh": "装备武器与护甲",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16c74",
+    "en": "Equip spirit crystals",
+    "zh": "装备灵晶",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16c8c",
+    "en": "Use spirit techniques",
+    "zh": "施展灵术",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16ca4",
+    "en": "Save your progress",
+    "zh": "保存进度",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16cb8",
+    "en": "Configuration",
+    "zh": "设置",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16cc8",
+    "en": "No armour",
+    "zh": "未装备护甲",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16cd4",
+    "en": "No helmet",
+    "zh": "未装备头盔",
+    "retain_reason": ""
+  },
+  {
+    "offset": "0xa16ce0",
+    "en": "No accessory",
+    "zh": "未装备饰品",
+    "retain_reason": ""
+  }
+]

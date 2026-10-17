@@ -1,0 +1,914 @@
+{
+  "original": {
+    "rom_sha256": "1d8b4617be75a8b7b6c5c2975ef0213ed37da669c460d967d4259b6a25d22b2e",
+    "steps": [
+      {
+        "name": "title",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 18,
+        "max_changed_channel_fraction": 0.3057725694444444,
+        "stable_sha256": "4c6de8bd29b926a1d9d559806c799bc28e46498f0d4f08723f4048465aa37025"
+      },
+      {
+        "name": "new_game_scene",
+        "frames": 180,
+        "fixture": false,
+        "nearly_black_frames": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "unique_frames": 130,
+        "max_changed_channel_fraction": 0.5423003472222222,
+        "stable_sha256": "6a56318b2b6aed4fa3930e9a7624d00b1dce1a25142e91f0d887fdbfd4544fe7"
+      },
+      {
+        "name": "opening_dialog",
+        "frames": 180,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 24,
+        "max_changed_channel_fraction": 0.8174045138888889,
+        "stable_sha256": "67807eb651385c4507a193bc4b244e7e0e6add096bd2448ca050200d84d0aac4"
+      },
+      {
+        "name": "dialog_2",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 36,
+        "max_changed_channel_fraction": 0.2738454861111111,
+        "stable_sha256": "98e330664d0cc8ed7fcc3032ce5aafbe2066c662440b7854c067ba110bfec5fb"
+      },
+      {
+        "name": "dialog_3",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 36,
+        "max_changed_channel_fraction": 0.27172743055555554,
+        "stable_sha256": "10f0b408b0fbc30f07c8633102fe9fc566b77c23ca4be87662ee7f3753415c71"
+      },
+      {
+        "name": "dialog_4",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 36,
+        "max_changed_channel_fraction": 0.2649826388888889,
+        "stable_sha256": "132685a26c30119e9bb43ac6a33d1e7cc7fe4287121469e57bba31678b0ee852"
+      },
+      {
+        "name": "dialog_5",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 36,
+        "max_changed_channel_fraction": 0.2688107638888889,
+        "stable_sha256": "5083396639015d8b9b364253f8ac53cba30285b7d0a4f3f5de3f95c58b8490f2"
+      },
+      {
+        "name": "dialog_6",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 36,
+        "max_changed_channel_fraction": 0.26364583333333336,
+        "stable_sha256": "b888d0aebe482534dd61508ca125031fd4f7d881335e03d30ab4ce93e0ac04c7"
+      },
+      {
+        "name": "dialog_7",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 16,
+        "max_changed_channel_fraction": 0.25852430555555556,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "close_dialog",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 1,
+        "max_changed_channel_fraction": 0,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "open_menu",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 23,
+        "max_changed_channel_fraction": 0.06561631944444445,
+        "stable_sha256": "1b7523c3f48b9a0ac3cee231c8de4f73a234585a1d81357b8c2c54ea081302d0"
+      },
+      {
+        "name": "equipment_menu",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 2,
+        "max_changed_channel_fraction": 0.044869791666666665,
+        "stable_sha256": "51ae15f00e7fe4279b3fd96c8ee40d5dce7abbab92ed6a0136ac850d116e0f12"
+      },
+      {
+        "name": "equipment_detail",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 2,
+        "max_changed_channel_fraction": 0.32783854166666665,
+        "stable_sha256": "5991b0eab5b4108b7b0e25f4fae2e0e062ebf0d62f33740a0d552cb042b163da"
+      },
+      {
+        "name": "equipment_back",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 2,
+        "max_changed_channel_fraction": 0.044921875,
+        "stable_sha256": "1b7523c3f48b9a0ac3cee231c8de4f73a234585a1d81357b8c2c54ea081302d0"
+      },
+      {
+        "name": "menu_back",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 22,
+        "max_changed_channel_fraction": 0.06561631944444445,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "close_menu",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 23,
+        "max_changed_channel_fraction": 0.06561631944444445,
+        "stable_sha256": "1b7523c3f48b9a0ac3cee231c8de4f73a234585a1d81357b8c2c54ea081302d0"
+      },
+      {
+        "name": "turn_right",
+        "frames": 60,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 2,
+        "max_changed_channel_fraction": 0.044939236111111114,
+        "stable_sha256": "c2433684799c197ef57b34506de08e13bb920e8405e57ea4fa80dbb1f43cd767"
+      },
+      {
+        "name": "move_forward",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 1,
+        "max_changed_channel_fraction": 0,
+        "stable_sha256": "c2433684799c197ef57b34506de08e13bb920e8405e57ea4fa80dbb1f43cd767"
+      },
+      {
+        "name": "open_menu_again",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 22,
+        "max_changed_channel_fraction": 0.06569444444444444,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "menu_selection_0",
+        "frames": 45,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 4,
+        "max_changed_channel_fraction": 0.8178993055555556,
+        "stable_sha256": "eebdb9b7d3e3dbebff1bdd53a7930522c58542b07b252bb5fb39752b9f876c8e"
+      },
+      {
+        "name": "menu_selection_1",
+        "frames": 45,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 4,
+        "max_changed_channel_fraction": 0.8995920138888889,
+        "stable_sha256": "b2fd31c347889d5c8cc03cddb2b2d8b14487a139e6248f1a165a85e1d864e066"
+      },
+      {
+        "name": "menu_selection_2",
+        "frames": 45,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 4,
+        "max_changed_channel_fraction": 0.8988541666666666,
+        "stable_sha256": "14f2627534b68089cce08f4ae66053e9ef886b71483c3fba7376b71b22b3ddb0"
+      },
+      {
+        "name": "menu_selection_3",
+        "frames": 45,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 4,
+        "max_changed_channel_fraction": 0.7719791666666667,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "configuration",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 1,
+        "max_changed_channel_fraction": 0,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "configuration_back",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 23,
+        "max_changed_channel_fraction": 0.06569444444444444,
+        "stable_sha256": "c2433684799c197ef57b34506de08e13bb920e8405e57ea4fa80dbb1f43cd767"
+      },
+      {
+        "name": "save_selection",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 2,
+        "max_changed_channel_fraction": 0.044921875,
+        "stable_sha256": "1b7523c3f48b9a0ac3cee231c8de4f73a234585a1d81357b8c2c54ea081302d0"
+      },
+      {
+        "name": "save_slots",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 2,
+        "max_changed_channel_fraction": 0.044869791666666665,
+        "stable_sha256": "51ae15f00e7fe4279b3fd96c8ee40d5dce7abbab92ed6a0136ac850d116e0f12"
+      },
+      {
+        "name": "save_write",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 2,
+        "max_changed_channel_fraction": 0.32783854166666665,
+        "stable_sha256": "5991b0eab5b4108b7b0e25f4fae2e0e062ebf0d62f33740a0d552cb042b163da"
+      },
+      {
+        "name": "save_back",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 2,
+        "max_changed_channel_fraction": 0.044921875,
+        "stable_sha256": "1b7523c3f48b9a0ac3cee231c8de4f73a234585a1d81357b8c2c54ea081302d0"
+      },
+      {
+        "name": "menu_exit",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 22,
+        "max_changed_channel_fraction": 0.06561631944444445,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "battle_entry",
+        "frames": 240,
+        "fixture": true,
+        "nearly_black_frames": [],
+        "unique_frames": 66,
+        "max_changed_channel_fraction": 0.41933159722222224,
+        "stable_sha256": "6d4057a9a075688c222e321e48619a82fe026a52fc0721a862956d23c4202636"
+      },
+      {
+        "name": "battle_technique_selected",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 25,
+        "max_changed_channel_fraction": 0.04534722222222222,
+        "stable_sha256": "63fb1b878fdfa25f6e064850a20e4bd08d8d50076bef87ae65574c44826df0e2"
+      },
+      {
+        "name": "battle_technique_menu",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 18,
+        "max_changed_channel_fraction": 0.04546875,
+        "stable_sha256": "0301676a28599d9808c3f4500b5cad271f6fd99fbca479fc9caa6cf707eb9249"
+      },
+      {
+        "name": "battle_technique_back",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 24,
+        "max_changed_channel_fraction": 0.06089409722222222,
+        "stable_sha256": "6c909785cc71bcc5ce02949792638c728cb94690391f3fc3e4d0338a994f3216"
+      },
+      {
+        "name": "battle_attack_selected",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 23,
+        "max_changed_channel_fraction": 0.060833333333333336,
+        "stable_sha256": "08f76cb229a49c753570aa570bbae07038fe2897af8e77e8bfc420f662f2cb94"
+      },
+      {
+        "name": "battle_attack_target",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 26,
+        "max_changed_channel_fraction": 0.020546875,
+        "stable_sha256": "375ea3729b902a882576e40157856b3120b0a6281cdd1753f32a20c7a3ced230"
+      },
+      {
+        "name": "battle_attack_turn",
+        "frames": 240,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 92,
+        "max_changed_channel_fraction": 0.07731770833333333,
+        "stable_sha256": "ea10da475ea5b447f3d1b0492e9e7fd17257da2f2a0ac65f6bbbdafb20e7c88c"
+      },
+      {
+        "name": "battle_progress_0",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 27,
+        "max_changed_channel_fraction": 0.018072916666666668,
+        "stable_sha256": "9c778c55a10f94136d85463e2b7cfe22b2fb20328e46773c3b271aaaa1bf20e2"
+      },
+      {
+        "name": "battle_progress_1",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 62,
+        "max_changed_channel_fraction": 0.07693576388888888,
+        "stable_sha256": "e584e686d3f56ce8f2703a4e63ff116b98967ea431b1b8e0b05b13000664d5a0"
+      },
+      {
+        "name": "battle_progress_2",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 35,
+        "max_changed_channel_fraction": 0.017960069444444445,
+        "stable_sha256": "0774562fb1c7adc7df0f9d50d722b527fb17e4e22e59ecff9f10c2285bf0f874"
+      },
+      {
+        "name": "battle_progress_3",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 82,
+        "max_changed_channel_fraction": 0.043472222222222225,
+        "stable_sha256": "9ce86e2f54590273c1f9f19f27e1feb06bfe8a7876956710ba61620e023b447b"
+      },
+      {
+        "name": "battle_progress_4",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 17,
+        "max_changed_channel_fraction": 0.3799826388888889,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "battle_progress_5",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 1,
+        "max_changed_channel_fraction": 0,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "battle_progress_6",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 1,
+        "max_changed_channel_fraction": 0,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "battle_progress_7",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 1,
+        "max_changed_channel_fraction": 0,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "battle_progress_8",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 1,
+        "max_changed_channel_fraction": 0,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "battle_progress_9",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 1,
+        "max_changed_channel_fraction": 0,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "battle_progress_10",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 1,
+        "max_changed_channel_fraction": 0,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "battle_progress_11",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 1,
+        "max_changed_channel_fraction": 0,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      }
+    ],
+    "total_frames": 4680
+  },
+  "zh": {
+    "rom_sha256": "33a35095e159721710d6a4da375f87fe80fd6ba00cc551899821ee381d884f77",
+    "steps": [
+      {
+        "name": "title",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 18,
+        "max_changed_channel_fraction": 0.37360243055555553,
+        "stable_sha256": "1f8388b8a1dc8158f1cd9033166567f649ee9d819a2ea0ac4bb487719f630b1c"
+      },
+      {
+        "name": "new_game_scene",
+        "frames": 180,
+        "fixture": false,
+        "nearly_black_frames": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "unique_frames": 130,
+        "max_changed_channel_fraction": 0.5423003472222222,
+        "stable_sha256": "6a56318b2b6aed4fa3930e9a7624d00b1dce1a25142e91f0d887fdbfd4544fe7"
+      },
+      {
+        "name": "opening_dialog",
+        "frames": 180,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 24,
+        "max_changed_channel_fraction": 0.8174045138888889,
+        "stable_sha256": "b6087929bb5b1dc110eb47c4eb937d8fad4fd10d9b5ed430b3b2c5e31bef464e"
+      },
+      {
+        "name": "dialog_2",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 36,
+        "max_changed_channel_fraction": 0.26453125,
+        "stable_sha256": "b44244b538d52b85308f973322f701083907620b03311e966af748a34cf5f5e1"
+      },
+      {
+        "name": "dialog_3",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 36,
+        "max_changed_channel_fraction": 0.2664236111111111,
+        "stable_sha256": "11367e56866d1393289dd11ad22484a25bb7ae6652e9a3c5e6cef4dde38cd250"
+      },
+      {
+        "name": "dialog_4",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 36,
+        "max_changed_channel_fraction": 0.25917534722222224,
+        "stable_sha256": "0d79322511a26df2369d659fccd3aed87fa2d69373212aef151aae5ea5b5b865"
+      },
+      {
+        "name": "dialog_5",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 36,
+        "max_changed_channel_fraction": 0.2599913194444444,
+        "stable_sha256": "cb9d6fbadc6d346d700f1ee6610e7e458a65837f8472b1c30bc3787e3f088ebf"
+      },
+      {
+        "name": "dialog_6",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 36,
+        "max_changed_channel_fraction": 0.25939236111111114,
+        "stable_sha256": "2abab3885291e026704b75526d8f50444858218338cece96b98f420d2b2f7612"
+      },
+      {
+        "name": "dialog_7",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 16,
+        "max_changed_channel_fraction": 0.2577951388888889,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "close_dialog",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 1,
+        "max_changed_channel_fraction": 0,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "open_menu",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 23,
+        "max_changed_channel_fraction": 0.06561631944444445,
+        "stable_sha256": "dd9cb1440cfb0805eade1f8fc0d6dd1a0df40b06a9d5223a8c5a6929e0b53c50"
+      },
+      {
+        "name": "equipment_menu",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 2,
+        "max_changed_channel_fraction": 0.044869791666666665,
+        "stable_sha256": "63182998184f152ec11edb6765fc5296b8111fcbdf22a320dc18562d24d28f09"
+      },
+      {
+        "name": "equipment_detail",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 2,
+        "max_changed_channel_fraction": 0.32869791666666665,
+        "stable_sha256": "8337abb4578283f4db86dcda751379fc53b150516b67445b35bae394b9504bc6"
+      },
+      {
+        "name": "equipment_back",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 2,
+        "max_changed_channel_fraction": 0.044869791666666665,
+        "stable_sha256": "dd9cb1440cfb0805eade1f8fc0d6dd1a0df40b06a9d5223a8c5a6929e0b53c50"
+      },
+      {
+        "name": "menu_back",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 22,
+        "max_changed_channel_fraction": 0.06561631944444445,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "close_menu",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 23,
+        "max_changed_channel_fraction": 0.06561631944444445,
+        "stable_sha256": "dd9cb1440cfb0805eade1f8fc0d6dd1a0df40b06a9d5223a8c5a6929e0b53c50"
+      },
+      {
+        "name": "turn_right",
+        "frames": 60,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 2,
+        "max_changed_channel_fraction": 0.044869791666666665,
+        "stable_sha256": "03c7394b3cb1234481796bdb00bd8cb2b948835eb96551606a6529caeb8fb2f6"
+      },
+      {
+        "name": "move_forward",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 1,
+        "max_changed_channel_fraction": 0,
+        "stable_sha256": "03c7394b3cb1234481796bdb00bd8cb2b948835eb96551606a6529caeb8fb2f6"
+      },
+      {
+        "name": "open_menu_again",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 22,
+        "max_changed_channel_fraction": 0.06569444444444444,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "menu_selection_0",
+        "frames": 45,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 4,
+        "max_changed_channel_fraction": 0.8178993055555556,
+        "stable_sha256": "eebdb9b7d3e3dbebff1bdd53a7930522c58542b07b252bb5fb39752b9f876c8e"
+      },
+      {
+        "name": "menu_selection_1",
+        "frames": 45,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 4,
+        "max_changed_channel_fraction": 0.8995920138888889,
+        "stable_sha256": "b2fd31c347889d5c8cc03cddb2b2d8b14487a139e6248f1a165a85e1d864e066"
+      },
+      {
+        "name": "menu_selection_2",
+        "frames": 45,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 4,
+        "max_changed_channel_fraction": 0.8988541666666666,
+        "stable_sha256": "14f2627534b68089cce08f4ae66053e9ef886b71483c3fba7376b71b22b3ddb0"
+      },
+      {
+        "name": "menu_selection_3",
+        "frames": 45,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 4,
+        "max_changed_channel_fraction": 0.7719791666666667,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "configuration",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 1,
+        "max_changed_channel_fraction": 0,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "configuration_back",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 23,
+        "max_changed_channel_fraction": 0.06569444444444444,
+        "stable_sha256": "03c7394b3cb1234481796bdb00bd8cb2b948835eb96551606a6529caeb8fb2f6"
+      },
+      {
+        "name": "save_selection",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 2,
+        "max_changed_channel_fraction": 0.044869791666666665,
+        "stable_sha256": "dd9cb1440cfb0805eade1f8fc0d6dd1a0df40b06a9d5223a8c5a6929e0b53c50"
+      },
+      {
+        "name": "save_slots",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 2,
+        "max_changed_channel_fraction": 0.044869791666666665,
+        "stable_sha256": "63182998184f152ec11edb6765fc5296b8111fcbdf22a320dc18562d24d28f09"
+      },
+      {
+        "name": "save_write",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 2,
+        "max_changed_channel_fraction": 0.32869791666666665,
+        "stable_sha256": "8337abb4578283f4db86dcda751379fc53b150516b67445b35bae394b9504bc6"
+      },
+      {
+        "name": "save_back",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 2,
+        "max_changed_channel_fraction": 0.044869791666666665,
+        "stable_sha256": "dd9cb1440cfb0805eade1f8fc0d6dd1a0df40b06a9d5223a8c5a6929e0b53c50"
+      },
+      {
+        "name": "menu_exit",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 22,
+        "max_changed_channel_fraction": 0.06561631944444445,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "battle_entry",
+        "frames": 240,
+        "fixture": true,
+        "nearly_black_frames": [],
+        "unique_frames": 66,
+        "max_changed_channel_fraction": 0.41933159722222224,
+        "stable_sha256": "70490c4be904a404a30135f7f9773a301776b8c33cf67fe4d6d3f1adbf237ba2"
+      },
+      {
+        "name": "battle_technique_selected",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 25,
+        "max_changed_channel_fraction": 0.045538194444444444,
+        "stable_sha256": "a07dccbfc070698eb6dce91f31cfb114af50d3f4c8ae54ce811be58f26f81f24"
+      },
+      {
+        "name": "battle_technique_menu",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 18,
+        "max_changed_channel_fraction": 0.04541666666666667,
+        "stable_sha256": "7c94b9a6ff1b78cbd4b7c5e5db724502a5779086ec8cf66409c5aaffff5b159b"
+      },
+      {
+        "name": "battle_technique_back",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 24,
+        "max_changed_channel_fraction": 0.061085069444444445,
+        "stable_sha256": "82916d036a23248368851ad86752a800dc83fc23a7e46796544fa01210996418"
+      },
+      {
+        "name": "battle_attack_selected",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 23,
+        "max_changed_channel_fraction": 0.060885416666666664,
+        "stable_sha256": "6abb89be796f863ccd868b1b8f17b88879b0b71ba80f5530d1a5f9e9cdf4e85b"
+      },
+      {
+        "name": "battle_attack_target",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 26,
+        "max_changed_channel_fraction": 0.020546875,
+        "stable_sha256": "b35293a61b4ce91eae6e16bcd364d69233289f1ee5c60fafcf0f27ef6d83da9c"
+      },
+      {
+        "name": "battle_attack_turn",
+        "frames": 240,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 92,
+        "max_changed_channel_fraction": 0.07736979166666667,
+        "stable_sha256": "887855c7e23d4954999bcf5a29a83be13804a67d5d5e6662004c4fba6fe4e00c"
+      },
+      {
+        "name": "battle_progress_0",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 27,
+        "max_changed_channel_fraction": 0.018072916666666668,
+        "stable_sha256": "e6961a726bb389cdf55d0bd75088b1c0648082692c8839a2683093707d1709cd"
+      },
+      {
+        "name": "battle_progress_1",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 62,
+        "max_changed_channel_fraction": 0.07698784722222222,
+        "stable_sha256": "64be16e7a1648026c240bad555fd470044f3cfd05398d7152dddf738e1bdaa70"
+      },
+      {
+        "name": "battle_progress_2",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 35,
+        "max_changed_channel_fraction": 0.017960069444444445,
+        "stable_sha256": "de76527badb09b5f711ce1825b0559953dc1f4e5f67fd44f384bedce1e19bef0"
+      },
+      {
+        "name": "battle_progress_3",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 82,
+        "max_changed_channel_fraction": 0.043472222222222225,
+        "stable_sha256": "839f1112ae1466b19296ddeb457787d9fb8135d5a2cca819a0448a6bbe00c6d6"
+      },
+      {
+        "name": "battle_progress_4",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 17,
+        "max_changed_channel_fraction": 0.3799826388888889,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "battle_progress_5",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 1,
+        "max_changed_channel_fraction": 0,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "battle_progress_6",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 1,
+        "max_changed_channel_fraction": 0,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "battle_progress_7",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 1,
+        "max_changed_channel_fraction": 0,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "battle_progress_8",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 1,
+        "max_changed_channel_fraction": 0,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "battle_progress_9",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 1,
+        "max_changed_channel_fraction": 0,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "battle_progress_10",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 1,
+        "max_changed_channel_fraction": 0,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      },
+      {
+        "name": "battle_progress_11",
+        "frames": 90,
+        "fixture": false,
+        "nearly_black_frames": [],
+        "unique_frames": 1,
+        "max_changed_channel_fraction": 0,
+        "stable_sha256": "d4b465c1b7b7c22c51942e0b633662fd7e12612a33aa63dce9276084ef4c253e"
+      }
+    ],
+    "total_frames": 4680
+  }
+}

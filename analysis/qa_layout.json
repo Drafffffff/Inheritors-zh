@@ -1,0 +1,4282 @@
+{
+  "sha256": "b17e02f3210c7c0e3d7fa51509ad31f0728d7ea4404c9a028ac6feea10e051c6",
+  "records_checked": 249,
+  "translated": 243,
+  "retained": 6,
+  "layout_checks": [
+    {
+      "offset": "0xa13148",
+      "kind": "explicit retention",
+      "size": 8,
+      "row_widths": [
+        192
+      ],
+      "limits": [
+        1024
+      ],
+      "encoded_bytes": 32
+    },
+    {
+      "offset": "0xa1526c",
+      "kind": "explicit retention",
+      "size": 8,
+      "row_widths": [
+        99
+      ],
+      "limits": [
+        1024
+      ],
+      "encoded_bytes": 20
+    },
+    {
+      "offset": "0xa15284",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        24
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 6
+    },
+    {
+      "offset": "0xa15298",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        34
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0xa152a4",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0xa152b4",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        24
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 6
+    },
+    {
+      "offset": "0xa152c0",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0xa152c8",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0xa152dc",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        40
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 10
+    },
+    {
+      "offset": "0xa152e8",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0xa152fc",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0xa15308",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        132
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 22
+    },
+    {
+      "offset": "0xa15334",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        60
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 10
+    },
+    {
+      "offset": "0xa15354",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        156
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 26
+    },
+    {
+      "offset": "0xa15394",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        60
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 10
+    },
+    {
+      "offset": "0xa153a0",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        144
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 52
+    },
+    {
+      "offset": "0xa15404",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168,
+        72
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 68
+    },
+    {
+      "offset": "0xa15498",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        162,
+        168,
+        108
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 73
+    },
+    {
+      "offset": "0xa1554c",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        144
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 24
+    },
+    {
+      "offset": "0xa15580",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168,
+        96
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 72
+    },
+    {
+      "offset": "0xa15610",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        36
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 34
+    },
+    {
+      "offset": "0xa15654",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        162,
+        168,
+        108
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 73
+    },
+    {
+      "offset": "0xa15708",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        72
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 12
+    },
+    {
+      "offset": "0xa1571c",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168,
+        12
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 58
+    },
+    {
+      "offset": "0xa157bc",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        144
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 52
+    },
+    {
+      "offset": "0xa15828",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        60
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 10
+    },
+    {
+      "offset": "0xa15838",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168,
+        12
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 58
+    },
+    {
+      "offset": "0xa158a4",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        12
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 30
+    },
+    {
+      "offset": "0xa158dc",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        24
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 32
+    },
+    {
+      "offset": "0xa1591c",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        48
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 36
+    },
+    {
+      "offset": "0xa15954",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 56
+    },
+    {
+      "offset": "0xa159b0",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        144
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 52
+    },
+    {
+      "offset": "0xa15a14",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168,
+        84
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 70
+    },
+    {
+      "offset": "0xa15aac",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168,
+        48
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 64
+    },
+    {
+      "offset": "0xa15b20",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168,
+        96
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 72
+    },
+    {
+      "offset": "0xa15bc0",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168,
+        108
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 74
+    },
+    {
+      "offset": "0xa15c7c",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168,
+        96
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 72
+    },
+    {
+      "offset": "0xa15d10",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168,
+        84
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 70
+    },
+    {
+      "offset": "0xa15dd0",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168,
+        84
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 70
+    },
+    {
+      "offset": "0xa15e74",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168,
+        120
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 76
+    },
+    {
+      "offset": "0xa15efc",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168,
+        84
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 70
+    },
+    {
+      "offset": "0xa15f84",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        108
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 46
+    },
+    {
+      "offset": "0xa15fc4",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 28
+    },
+    {
+      "offset": "0xa15fe8",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168,
+        60
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 66
+    },
+    {
+      "offset": "0xa16070",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        84
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 42
+    },
+    {
+      "offset": "0xa160c8",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        96
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 44
+    },
+    {
+      "offset": "0xa1612c",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 28
+    },
+    {
+      "offset": "0xa16160",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        84
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 14
+    },
+    {
+      "offset": "0xa16178",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        132
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 50
+    },
+    {
+      "offset": "0xa161c4",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        120
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 20
+    },
+    {
+      "offset": "0xa161dc",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168,
+        144
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 80
+    },
+    {
+      "offset": "0xa162a8",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168,
+        60
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 66
+    },
+    {
+      "offset": "0xa1633c",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        156
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 26
+    },
+    {
+      "offset": "0xa16364",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        24
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 32
+    },
+    {
+      "offset": "0xa16398",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        36
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 34
+    },
+    {
+      "offset": "0xa163cc",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        36
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 34
+    },
+    {
+      "offset": "0xa163fc",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168,
+        60
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 66
+    },
+    {
+      "offset": "0xa16474",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168,
+        96
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 72
+    },
+    {
+      "offset": "0xa16508",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        132
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 22
+    },
+    {
+      "offset": "0xa16530",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        12
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 30
+    },
+    {
+      "offset": "0xa16554",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168,
+        84
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 70
+    },
+    {
+      "offset": "0xa165c8",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        156
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 26
+    },
+    {
+      "offset": "0xa165f4",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168,
+        36
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 62
+    },
+    {
+      "offset": "0xa16640",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        84
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 14
+    },
+    {
+      "offset": "0xa16654",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        120
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 20
+    },
+    {
+      "offset": "0xa16664",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168,
+        48
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 64
+    },
+    {
+      "offset": "0xa166d0",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        168
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 56
+    },
+    {
+      "offset": "0xa1672c",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        60
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 10
+    },
+    {
+      "offset": "0xa16738",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        72
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 12
+    },
+    {
+      "offset": "0xa16748",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        168,
+        132
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 50
+    },
+    {
+      "offset": "0xa167a0",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        120
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 20
+    },
+    {
+      "offset": "0xa167c8",
+      "kind": "dialogue/message",
+      "size": 12,
+      "row_widths": [
+        60
+      ],
+      "limits": [
+        168,
+        168,
+        184,
+        184
+      ],
+      "encoded_bytes": 10
+    },
+    {
+      "offset": "0xa167d4",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        18
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 5
+    },
+    {
+      "offset": "0xa167e4",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        18
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 5
+    },
+    {
+      "offset": "0xa167ec",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        24
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 6
+    },
+    {
+      "offset": "0xa16800",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        40
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 10
+    },
+    {
+      "offset": "0xa16814",
+      "kind": "ending/credits line",
+      "size": 8,
+      "row_widths": [
+        96
+      ],
+      "limits": [
+        224
+      ],
+      "encoded_bytes": 24
+    },
+    {
+      "offset": "0xa16848",
+      "kind": "ending/credits line",
+      "size": 8,
+      "row_widths": [
+        88
+      ],
+      "limits": [
+        224
+      ],
+      "encoded_bytes": 22
+    },
+    {
+      "offset": "0xa16874",
+      "kind": "ending/credits line",
+      "size": 8,
+      "row_widths": [
+        80
+      ],
+      "limits": [
+        224
+      ],
+      "encoded_bytes": 20
+    },
+    {
+      "offset": "0xa168a4",
+      "kind": "ending/credits line",
+      "size": 8,
+      "row_widths": [
+        56
+      ],
+      "limits": [
+        224
+      ],
+      "encoded_bytes": 14
+    },
+    {
+      "offset": "0xa168d0",
+      "kind": "ending/credits line",
+      "size": 8,
+      "row_widths": [
+        72
+      ],
+      "limits": [
+        224
+      ],
+      "encoded_bytes": 18
+    },
+    {
+      "offset": "0xa16900",
+      "kind": "ending/credits line",
+      "size": 8,
+      "row_widths": [
+        80
+      ],
+      "limits": [
+        224
+      ],
+      "encoded_bytes": 20
+    },
+    {
+      "offset": "0xa1692c",
+      "kind": "ending/credits line",
+      "size": 8,
+      "row_widths": [
+        96
+      ],
+      "limits": [
+        224
+      ],
+      "encoded_bytes": 24
+    },
+    {
+      "offset": "0xa1694c",
+      "kind": "ending/credits line",
+      "size": 8,
+      "row_widths": [
+        64
+      ],
+      "limits": [
+        224
+      ],
+      "encoded_bytes": 16
+    },
+    {
+      "offset": "0xa16968",
+      "kind": "explicit retention",
+      "size": 8,
+      "row_widths": [
+        156
+      ],
+      "limits": [
+        1024
+      ],
+      "encoded_bytes": 26
+    },
+    {
+      "offset": "0xa1698e",
+      "kind": "explicit retention",
+      "size": 8,
+      "row_widths": [
+        24
+      ],
+      "limits": [
+        1024
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0xa16994",
+      "kind": "ending/credits line",
+      "size": 8,
+      "row_widths": [
+        76
+      ],
+      "limits": [
+        224
+      ],
+      "encoded_bytes": 18
+    },
+    {
+      "offset": "0xa169a4",
+      "kind": "ending/credits line",
+      "size": 8,
+      "row_widths": [
+        40
+      ],
+      "limits": [
+        224
+      ],
+      "encoded_bytes": 10
+    },
+    {
+      "offset": "0xa169b4",
+      "kind": "explicit retention",
+      "size": 8,
+      "row_widths": [
+        155
+      ],
+      "limits": [
+        1024
+      ],
+      "encoded_bytes": 30
+    },
+    {
+      "offset": "0xa169d4",
+      "kind": "explicit retention",
+      "size": 8,
+      "row_widths": [
+        36
+      ],
+      "limits": [
+        1024
+      ],
+      "encoded_bytes": 7
+    },
+    {
+      "offset": "0xa169dc",
+      "kind": "ending/credits line",
+      "size": 8,
+      "row_widths": [
+        24
+      ],
+      "limits": [
+        224
+      ],
+      "encoded_bytes": 6
+    },
+    {
+      "offset": "0xa169ec",
+      "kind": "ending/credits line",
+      "size": 8,
+      "row_widths": [
+        24
+      ],
+      "limits": [
+        224
+      ],
+      "encoded_bytes": 6
+    },
+    {
+      "offset": "0xa169f8",
+      "kind": "ending/credits line",
+      "size": 8,
+      "row_widths": [
+        24
+      ],
+      "limits": [
+        224
+      ],
+      "encoded_bytes": 6
+    },
+    {
+      "offset": "0xa16a00",
+      "kind": "ending/credits line",
+      "size": 8,
+      "row_widths": [
+        40
+      ],
+      "limits": [
+        224
+      ],
+      "encoded_bytes": 10
+    },
+    {
+      "offset": "0xa16a10",
+      "kind": "ending/credits line",
+      "size": 8,
+      "row_widths": [
+        40
+      ],
+      "limits": [
+        224
+      ],
+      "encoded_bytes": 10
+    },
+    {
+      "offset": "0xa16a24",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0xa16a2c",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0xa16a44",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0xa16a4c",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0xa16a54",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0xa16a5c",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        48
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0xa16a6c",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        84
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 14
+    },
+    {
+      "offset": "0xa16a8c",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        108
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 18
+    },
+    {
+      "offset": "0xa16aac",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        96
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 16
+    },
+    {
+      "offset": "0xa16ad4",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        108
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 18
+    },
+    {
+      "offset": "0xa16b08",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0xa16b10",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0xa16b20",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0xa16b2c",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0xa16b34",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0xa16b3c",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0xa16b44",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0xa16b4c",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        8
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 2
+    },
+    {
+      "offset": "0xa16b58",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        8
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 2
+    },
+    {
+      "offset": "0xa16b60",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        8
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 2
+    },
+    {
+      "offset": "0xa16b6c",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        8
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 2
+    },
+    {
+      "offset": "0xa16b74",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        40
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 10
+    },
+    {
+      "offset": "0xa16b80",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        24
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 6
+    },
+    {
+      "offset": "0xa16b8c",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        34
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0xa16b98",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        40
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 10
+    },
+    {
+      "offset": "0xa16ba8",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        40
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 10
+    },
+    {
+      "offset": "0xa16bb4",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        24
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 6
+    },
+    {
+      "offset": "0xa16bc0",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        50
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 12
+    },
+    {
+      "offset": "0xa16bd4",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        24
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 6
+    },
+    {
+      "offset": "0xa16be8",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        24
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 6
+    },
+    {
+      "offset": "0xa16bf8",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        10
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 2
+    },
+    {
+      "offset": "0xa16bfc",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        40
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 10
+    },
+    {
+      "offset": "0xa16c10",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        18
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 5
+    },
+    {
+      "offset": "0xa16c18",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        18
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 5
+    },
+    {
+      "offset": "0xa16c20",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        18
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 5
+    },
+    {
+      "offset": "0xa16c28",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        18
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 5
+    },
+    {
+      "offset": "0xa16c30",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        50
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 12
+    },
+    {
+      "offset": "0xa16c3c",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0xa16c54",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        56
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 14
+    },
+    {
+      "offset": "0xa16c74",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0xa16c8c",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0xa16ca4",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0xa16cb8",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0xa16cc8",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        40
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 10
+    },
+    {
+      "offset": "0xa16cd4",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        40
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 10
+    },
+    {
+      "offset": "0xa16ce0",
+      "kind": "compact static label",
+      "size": 8,
+      "row_widths": [
+        40
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 10
+    },
+    {
+      "offset": "0x27017",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x27037",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x27057",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x27077",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        156
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 26
+    },
+    {
+      "offset": "0x2711b",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x2713b",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x2715b",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x2717b",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        144
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 24
+    },
+    {
+      "offset": "0x2721f",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x2723f",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x2725f",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x2727f",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        156,
+        24
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 30
+    },
+    {
+      "offset": "0x27323",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x27343",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x27363",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x27383",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        144
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 24
+    },
+    {
+      "offset": "0x27427",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x27447",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x27467",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x27487",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        156
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 26
+    },
+    {
+      "offset": "0x2752b",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x2754b",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x2756b",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x2758b",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        156
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 26
+    },
+    {
+      "offset": "0x2762f",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x2764f",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x2766f",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x2768f",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        156,
+        12
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 28
+    },
+    {
+      "offset": "0x27733",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x27753",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x27773",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        24
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 6
+    },
+    {
+      "offset": "0x27793",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        156,
+        24
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 30
+    },
+    {
+      "offset": "0x27837",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x27857",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x27877",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x27897",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        156
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 26
+    },
+    {
+      "offset": "0x2793b",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x2795b",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x2797b",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x2799b",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        132
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 22
+    },
+    {
+      "offset": "0x27a3f",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x27a5f",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x27a7f",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        24
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 6
+    },
+    {
+      "offset": "0x27a9f",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        144
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 24
+    },
+    {
+      "offset": "0x27b43",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x27b63",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x27b83",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        24
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 6
+    },
+    {
+      "offset": "0x27ba3",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        156
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 26
+    },
+    {
+      "offset": "0x27c47",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x27c67",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x27c87",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x27ca7",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        156
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 26
+    },
+    {
+      "offset": "0x27d4b",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x27d6b",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x27d8b",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        40
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 10
+    },
+    {
+      "offset": "0x27dab",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        96
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 16
+    },
+    {
+      "offset": "0x27e4f",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x27e6f",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x27e8f",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x27eaf",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        156
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 26
+    },
+    {
+      "offset": "0x27f53",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x27f73",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        24
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 6
+    },
+    {
+      "offset": "0x27f93",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        24
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 6
+    },
+    {
+      "offset": "0x27fb3",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        120
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 20
+    },
+    {
+      "offset": "0x28057",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x28077",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x28097",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x280b7",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        144
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 24
+    },
+    {
+      "offset": "0x2815b",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x2817b",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x2819b",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x281bb",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        156,
+        12
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 28
+    },
+    {
+      "offset": "0x2825f",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x2827f",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x2829f",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        48
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 12
+    },
+    {
+      "offset": "0x282bf",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        156
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 26
+    },
+    {
+      "offset": "0x28363",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x28383",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x283a3",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x283c3",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        132
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 22
+    },
+    {
+      "offset": "0x28467",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x28487",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x284a7",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        24
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 6
+    },
+    {
+      "offset": "0x284c7",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        156,
+        24
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 30
+    },
+    {
+      "offset": "0x2856b",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        40
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 10
+    },
+    {
+      "offset": "0x2858b",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x285ab",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        24
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 6
+    },
+    {
+      "offset": "0x285cb",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        156
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 26
+    },
+    {
+      "offset": "0x2866f",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        40
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 10
+    },
+    {
+      "offset": "0x2868f",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x286af",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x286cf",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        156,
+        12
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 28
+    },
+    {
+      "offset": "0x28773",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x28793",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x287b3",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x287d3",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        156
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 26
+    },
+    {
+      "offset": "0x28877",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x28897",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x288b7",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x288d7",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        156,
+        24
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 30
+    },
+    {
+      "offset": "0x2897b",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x2899b",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        16
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 4
+    },
+    {
+      "offset": "0x289bb",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x289db",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        156,
+        12
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 28
+    },
+    {
+      "offset": "0x28a7f",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x28a9f",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        32
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 8
+    },
+    {
+      "offset": "0x28abf",
+      "kind": "name",
+      "size": 8,
+      "row_widths": [
+        40
+      ],
+      "limits": [
+        128
+      ],
+      "encoded_bytes": 10
+    },
+    {
+      "offset": "0x28adf",
+      "kind": "technique/accessory description",
+      "size": 12,
+      "row_widths": [
+        156
+      ],
+      "limits": [
+        157,
+        157,
+        157
+      ],
+      "encoded_bytes": 26
+    }
+  ],
+  "dynamic_composites": [
+    {
+      "text": "生命:4100",
+      "width": 39,
+      "cell_width": 80,
+      "buffer_bytes": 10,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+10)",
+      "width": 63,
+      "cell_width": 80,
+      "buffer_bytes": 15,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+12)",
+      "width": 62,
+      "cell_width": 80,
+      "buffer_bytes": 15,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+15)",
+      "width": 62,
+      "cell_width": 80,
+      "buffer_bytes": 15,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+25)",
+      "width": 63,
+      "cell_width": 80,
+      "buffer_bytes": 15,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+35)",
+      "width": 63,
+      "cell_width": 80,
+      "buffer_bytes": 15,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+40)",
+      "width": 64,
+      "cell_width": 80,
+      "buffer_bytes": 15,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+45)",
+      "width": 63,
+      "cell_width": 80,
+      "buffer_bytes": 15,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+47)",
+      "width": 63,
+      "cell_width": 80,
+      "buffer_bytes": 15,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+50)",
+      "width": 64,
+      "cell_width": 80,
+      "buffer_bytes": 15,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+55)",
+      "width": 63,
+      "cell_width": 80,
+      "buffer_bytes": 15,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+60)",
+      "width": 64,
+      "cell_width": 80,
+      "buffer_bytes": 15,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+65)",
+      "width": 63,
+      "cell_width": 80,
+      "buffer_bytes": 15,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+67)",
+      "width": 63,
+      "cell_width": 80,
+      "buffer_bytes": 15,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+70)",
+      "width": 64,
+      "cell_width": 80,
+      "buffer_bytes": 15,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+90)",
+      "width": 64,
+      "cell_width": 80,
+      "buffer_bytes": 15,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+100)",
+      "width": 69,
+      "cell_width": 80,
+      "buffer_bytes": 16,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+120)",
+      "width": 68,
+      "cell_width": 80,
+      "buffer_bytes": 16,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+175)",
+      "width": 67,
+      "cell_width": 80,
+      "buffer_bytes": 16,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+200)",
+      "width": 70,
+      "cell_width": 80,
+      "buffer_bytes": 16,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+300)",
+      "width": 70,
+      "cell_width": 80,
+      "buffer_bytes": 16,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+475)",
+      "width": 68,
+      "cell_width": 80,
+      "buffer_bytes": 16,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+750)",
+      "width": 69,
+      "cell_width": 80,
+      "buffer_bytes": 16,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100(+1000)",
+      "width": 75,
+      "cell_width": 80,
+      "buffer_bytes": 17,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "真气:860",
+      "width": 34,
+      "cell_width": 80,
+      "buffer_bytes": 9,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "真气:860(+5)",
+      "width": 53,
+      "cell_width": 80,
+      "buffer_bytes": 13,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "真气:860(+7)",
+      "width": 53,
+      "cell_width": 80,
+      "buffer_bytes": 13,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "真气:860(+10)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "真气:860(+12)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "真气:860(+15)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "真气:860(+17)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "真气:860(+20)",
+      "width": 59,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "真气:860(+22)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "真气:860(+25)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "真气:860(+27)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "真气:860(+30)",
+      "width": 59,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "真气:860(+32)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "真气:860(+35)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "真气:860(+37)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "真气:860(+40)",
+      "width": 59,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "真气:860(+70)",
+      "width": 59,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "真气:860(+75)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "真气:860(+100)",
+      "width": 64,
+      "cell_width": 80,
+      "buffer_bytes": 15,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "真气:860(+200)",
+      "width": 65,
+      "cell_width": 80,
+      "buffer_bytes": 15,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "力量:530",
+      "width": 34,
+      "cell_width": 80,
+      "buffer_bytes": 9,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "力量:530(+5)",
+      "width": 53,
+      "cell_width": 80,
+      "buffer_bytes": 13,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "力量:530(+7)",
+      "width": 53,
+      "cell_width": 80,
+      "buffer_bytes": 13,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "力量:530(+9)",
+      "width": 53,
+      "cell_width": 80,
+      "buffer_bytes": 13,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "力量:530(+14)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "力量:530(+15)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "力量:530(+17)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "力量:530(+21)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "力量:530(+23)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "力量:530(+25)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "力量:530(+26)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "力量:530(+28)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "力量:530(+29)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "力量:530(+32)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "力量:530(+33)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "力量:530(+34)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "力量:530(+36)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "力量:530(+37)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "力量:530(+41)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "力量:530(+56)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "力量:530(+100)",
+      "width": 64,
+      "cell_width": 80,
+      "buffer_bytes": 15,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "力量:530(+125)",
+      "width": 62,
+      "cell_width": 80,
+      "buffer_bytes": 15,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435",
+      "width": 33,
+      "cell_width": 80,
+      "buffer_bytes": 9,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+5)",
+      "width": 52,
+      "cell_width": 80,
+      "buffer_bytes": 13,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+9)",
+      "width": 52,
+      "cell_width": 80,
+      "buffer_bytes": 13,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+14)",
+      "width": 56,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+17)",
+      "width": 56,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+22)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+23)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+25)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+29)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+30)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+31)",
+      "width": 56,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+32)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+35)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+40)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+43)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+44)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+48)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+53)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+54)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+56)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+61)",
+      "width": 56,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+64)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+65)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+75)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "防御:435(+100)",
+      "width": 63,
+      "cell_width": 80,
+      "buffer_bytes": 15,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "敏捷:610",
+      "width": 33,
+      "cell_width": 80,
+      "buffer_bytes": 9,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "敏捷:610(+5)",
+      "width": 52,
+      "cell_width": 80,
+      "buffer_bytes": 13,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "敏捷:610(+8)",
+      "width": 52,
+      "cell_width": 80,
+      "buffer_bytes": 13,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "敏捷:610(+12)",
+      "width": 56,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "敏捷:610(+13)",
+      "width": 56,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "敏捷:610(+14)",
+      "width": 56,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "敏捷:610(+15)",
+      "width": 56,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "敏捷:610(+18)",
+      "width": 56,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "敏捷:610(+19)",
+      "width": 56,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "敏捷:610(+21)",
+      "width": 56,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "敏捷:610(+25)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "敏捷:610(+30)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "敏捷:610(+33)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "敏捷:610(+38)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "敏捷:610(+41)",
+      "width": 56,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "敏捷:610(+42)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "敏捷:610(+43)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "敏捷:610(+48)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "敏捷:610(+50)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "敏捷:610(+52)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "敏捷:610(+145)",
+      "width": 61,
+      "cell_width": 80,
+      "buffer_bytes": 15,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325",
+      "width": 33,
+      "cell_width": 80,
+      "buffer_bytes": 9,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+5)",
+      "width": 52,
+      "cell_width": 80,
+      "buffer_bytes": 13,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+7)",
+      "width": 52,
+      "cell_width": 80,
+      "buffer_bytes": 13,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+12)",
+      "width": 56,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+13)",
+      "width": 56,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+15)",
+      "width": 56,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+19)",
+      "width": 56,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+22)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+25)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+26)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+29)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+32)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+35)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+40)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+42)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+44)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+45)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+46)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+47)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+50)",
+      "width": 58,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+54)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+57)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+65)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "灵力:325(+75)",
+      "width": 57,
+      "cell_width": 80,
+      "buffer_bytes": 14,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "生命:4100/4100  4100/4100  ",
+      "width": 138,
+      "cell_width": 157,
+      "buffer_capacity": 48
+    },
+    {
+      "text": "真气:860/860  860/860  ",
+      "width": 118,
+      "cell_width": 157,
+      "buffer_capacity": 48
+    }
+  ],
+  "limits": "Data-derived four-slot stat bounds; not arbitrary corrupted saves or every possible game state."
+}
